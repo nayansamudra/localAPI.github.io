@@ -1,0 +1,1817 @@
+[
+    [
+        1700622662,
+        "yaswanthkumar01@gmail.com",
+        "{\"name\": \"Yaswanth Kumar\", \"topic\": \"Trading Journal\", \"number\": \"8143402446\", \"feedback\": \"Hello,\\n\\nIt would be nice to have all learnings we are entering in each trade in single click of button. \\n\\nCurrently we have to go to each trade and see those learnings.\"}"
+    ],
+    [
+        1700587920,
+        "ajaysasne7@gmail.com",
+        "{\"name\": \"Ajay\", \"topic\": \"Others\", \"number\": \"9607302310\", \"feedback\": \"Add O=H & O=L Scanner\"}"
+    ],
+    [
+        1700550252,
+        "vishvajitdabhi333@gmail.com",
+        "{\"name\": \"vishvajit\", \"topic\": \"Trading Journal\", \"number\": \"8866865166\", \"feedback\": \"its amazing if you can add print option in trading journal, if we have hard copy or in pdf our trading journal we can add some point in it and also go through it it helps in trading plan and for finding our mistake. it is very helpful for users like me who dont want to use  screen for long time.\"}"
+    ],
+    [
+        1700549044,
+        "cshailes8@gmail.com",
+        "{\"name\": \"Shailesh chaudhari \", \"topic\": \"Others\", \"number\": \"9909704711\", \"feedback\": \"Dear sir,\\n              I checked if 15 min RSI cross number 60 there is more possible to achieve Target but it hard to find stock which have RSI cross above number 60.so can you help to find this stck\"}"
+    ],
+    [
+        1700497731,
+        "santu.nath543@gmail.com",
+        "{\"name\": \"Santu\", \"topic\": \"Others\", \"number\": \"8486057708\", \"feedback\": \"direct chart opening from tredcode is not working, its stuck on Dhan home screen and keep loading after enter personal PIN\"}"
+    ],
+    [
+        1700454179,
+        "sanketsonawane061@gmail.com",
+        "{\"name\": \"sanket sonawane\", \"topic\": \"Moneyflux\", \"number\": \"7499011530\", \"feedback\": \"tradecode data  not working  moneyflux\"}"
+    ],
+    [
+        1700453343,
+        "balarajums1998@gmail.com",
+        "{\"name\": \"Balraju MS\", \"topic\": \"Moneyflux\", \"number\": \"9141758611\", \"feedback\": \"Money flux showing old data in live market, \"}"
+    ],
+    [
+        1700453162,
+        "praveenladwani@gmail.com",
+        "{\"name\": \"Praveen Ladwani\", \"topic\": \"Others\", \"number\": \"8146103600\", \"feedback\": \"Is TredCode not working properly today? Its 9:35am and MoneyFlux is still showing old data.\"}"
+    ],
+    [
+        1700452567,
+        "praveenladwani@gmail.com",
+        "{\"name\": \"Praveen Ladwani\", \"topic\": \"Others\", \"number\": \"8146103600\", \"feedback\": \"I would like to share a feedback regarding TredCode. Its a great tool to find stocks but for a beginner who doesn't know what each section is for, I think there should be a documentation panel just like StockEdge App. For example, when I go to Pro-Setup Pre-Market Section there should be documentation panel which describes in detail what this section is for and how to choose stock based on the data in this panel. I know everything is explained in the sessions but documentation helps in recalling what a student learn. Hope you will consider this feedback.\"}"
+    ],
+    [
+        1700293395,
+        "swarooppatelsps03@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/TTMGKUUP4SHV.png\", \"name\": \"Swaroop patel \", \"topic\": \"Others\", \"number\": \"8792387591\", \"feedback\": \"Hi Team,\\n i have a script in trading view that helps us to go with confidence to ride one-way stocks.\\nit will plot daily range after breaking and closing above that range stocks will rally easily to know whether it will move strongly or not, also need to include your analysis like PDH / PDL close range whatever we are checking to short out the stocks same thing after that i will apply this tool to know the range.\\nafter closing above the range entry SL below that or below swing low \\nattached Screenshot for your reference.\\ni don't have Whatsapp but i use telegram with same nu \\nif we use this it will be easier to everyone \"}"
+    ],
+    [
+        1700287059,
+        "danishkohinoorr@gmail.com",
+        "{\"name\": \"danish khan\", \"topic\": \"Others\", \"number\": \"9897322041\", \"feedback\": \"sir tradcode mai interday ke liye alag se open low stock ya open high stock ka function add kijeye kyu ki maine mostly check kiye hai ase stock mai target bahut easy achieve ho jata hai.\\n\\nthank you   \"}"
+    ],
+    [
+        1700280376,
+        "harshalpatil1012@gmail.com",
+        "{\"name\": \"harshal patil\", \"topic\": \"Sectoral Flow\", \"number\": \"9404686188\", \"feedback\": \"Sir, can you add insurance sector in sectorial flow? so that we can't miss the move in insurance stock happen on 17-11-2023. It will add more confirmation in the future trade selection.\"}"
+    ],
+    [
+        1700206827,
+        "akshaykumarpatil3321@gmail.com",
+        "{\"name\": \"Akshay \", \"topic\": \"Others\", \"number\": \"9673843321\", \"feedback\": \"Sir if we add community option in trade code (which is already available in student portal )  if possible then it is easy for students . \\nThank you sir TCI is the best \"}"
+    ],
+    [
+        1700204816,
+        "drmehtavaibhav@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/437GBA8VQEFU.png\", \"name\": \"Vaibhav\", \"topic\": \"Market Depth\", \"number\": \"9820844958\", \"feedback\": \"How to take entry in stocks from top level stocks if there is no opposite color candle formed???\\nFound this in top level stocks on 17-11-2023 at 12.15 pm. After that no n pattern was formed\\n\"}"
+    ],
+    [
+        1700148814,
+        "keerthirajskraj@gmail.com",
+        "{\"name\": \"keerthi s k\", \"topic\": \"Others\", \"number\": \"8884773522\", \"feedback\": \"make a real-time option chain of nifty and bank nifty separately with buy and sell indicators. please do the needfull\\nthank you\"}"
+    ],
+    [
+        1700120649,
+        "lalitcmalviya@gmail.com",
+        "{\"name\": \"Lalit Malviya\", \"topic\": \"Others\", \"number\": \"9860144124\", \"feedback\": \"Add Alert Option in trade code .\"}"
+    ],
+    [
+        1700106685,
+        "sanjayboorra25@gmail.com",
+        "{\"name\": \"Sanjay Boora\", \"topic\": \"Others\", \"number\": \"8708655116\", \"feedback\": \"Please share a intraday commodity trading strategy for 9-5 job people .\"}"
+    ],
+    [
+        1699973806,
+        "sravanthadavena@gmail.com",
+        "{\"name\": \"SRAVAN THADAVENA\", \"topic\": \"Others\", \"number\": \"9885216316\", \"feedback\": \"Only for TCI students\\n \\nWHEN IT ACTIVE\"}"
+    ],
+    [
+        1699956050,
+        "praveensanalaishram.19xx@gmail.com",
+        "{\"name\": \"Praveensana Laishram\", \"topic\": \"Others\", \"number\": \"7005092162\", \"feedback\": \"sir I would like to suggest that if possible please add one more section for stocks that came in money flux, IB, and HP. I believe that such stock which all came together in these 3 sections will be more convincing to take trade and stock selection will be much easier. Thanks to my TCI mentors and teams.\"}"
+    ],
+    [
+        1699936222,
+        "rohitcool4312@gmail.com",
+        "{\"name\": \"Rohit\", \"topic\": \"Others\", \"number\": \"9311301521\", \"feedback\": \"I open a demat account with your angle one link and i also WhatsApp the same . TCI provide me a link which is not working moneflux and other features are not working its showing only for TCI students but the same thing is not telling when i open a account. My queries are not responded on WhatsApp \"}"
+    ],
+    [
+        1699860948,
+        "rgiriprasadh@gmail.com",
+        "{\"name\": \"Giriprasadh\", \"topic\": \"Others\", \"number\": \"8489031051\", \"feedback\": \"I want to shift my Dhan premium features to my existing tredcode account, i'm an existing TCI student and my registered email ID is giriprasadhraghavan@gmail.com in Tredcode, but i gave a different email ID (rgiriprasadh@gmail.com) in dhan, now changed dhan also to TCI linked email, requesting you to shift all Dhan related features to my TCI Student email \\\"giriprasadhraghavan@gmail.com\\\"\\n\\nThank you,\\nGiriprasadh Raghavan\"}"
+    ],
+    [
+        1699852591,
+        "akashshah9291@gmail.com",
+        "{\"name\": \"akash shah\", \"topic\": \"Others\", \"number\": \"9960336189\", \"feedback\": \"chinmay sir in live trading when u enter in a particular trade do u tell student that ur entering in trade?\"}"
+    ],
+    [
+        1699712010,
+        "maheshkote21@gmail.com",
+        "{\"name\": \"Mahesh kote\", \"topic\": \"Others\", \"number\": \"7875939646\", \"feedback\": \"Is it possible to add stock quarterly results and global markets index on tredcode desk\\n\\nResults of stocks will useful to invest in long\\nAnd global markets index will help for \\nWhat impact impact will it on our markets\"}"
+    ],
+    [
+        1699627206,
+        "nirmalyuvraj@gmail.com",
+        "{\"name\": \"SURESH THAKU KURHADE\", \"topic\": \"Index Analysis\", \"number\": \"8668361271\", \"feedback\": \"SUCH A GOOD ANALYSIS TO TRADE INDEX. MINUTE TO MINUTE ALL DETAIL RELATED TO BULL AND BEAR. WHICH HELP TRADER TO GET ENTRY AND EXIT. ALL WORTHY KNOLEDGE SHARE ON VERIOUS SOCIAL MEDIA PLATFORM AND ALSO ON STUDENT PORTAL. LAST BUT NOT THE LEAST DIRECT TRADE THROUGH TRADECODE ON DHAN APP OR WEB. ALSO TRADINGVIEW CHARTING IS CHERRY ON TOP. THANK YOU TO ALL MASTERS TO HELP US\"}"
+    ],
+    [
+        1699594386,
+        "tradecode2024@gmail.com",
+        "{\"name\": \"Tusar pattnayak\", \"topic\": \"Trading Journal\", \"number\": \"7064649863\", \"feedback\": \" journal me WIN RATE ka ek feature add karee  plz. Agar me 100 Trade Karta hu to us setup me mera kitina WIN RATE he mujha pata chalpaea .\"}"
+    ],
+    [
+        1699544534,
+        "ashokreddy003@gmail.com",
+        "{\"name\": \"Ashok Reddy\", \"topic\": \"Others\", \"number\": \"8985911333\", \"feedback\": \"It would be better if you develop an android app of tredcode.\"}"
+    ],
+    [
+        1699542283,
+        "apexcitys2@gmail.com",
+        "{\"name\": \"Sujal Gupta\", \"topic\": \"Pro Setups\", \"number\": \"9920736281\", \"feedback\": \"Sir, You May add a section of retesting on previous day high kind of filter for the pullback and reversal traders\"}"
+    ],
+    [
+        1699522557,
+        "akhilgoyal931@gmail.com",
+        "{\"name\": \"Akhil Goyal\", \"topic\": \"Trading Journal\", \"number\": \"9315296694\", \"feedback\": \"Is it possible to add our trading accuracy %age in trading journal?\"}"
+    ],
+    [
+        1699512045,
+        "chavdajay2607@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/NOFA8GEI0F3Z.jpeg\", \"name\": \"Jay Chavda\", \"topic\": \"Market Depth\", \"number\": \"7405209906\", \"feedback\": \"I suggest that add the alert section in MARKET DEPTH so we can catch the proper and perfect stock of the day.\\n\\nThank you.\"}"
+    ],
+    [
+        1699497743,
+        "vekariya.n.gaurav@gmail.com",
+        "{\"name\": \"Gaurav Vekariya\", \"topic\": \"Trading Journal\", \"number\": \"8369048054\", \"feedback\": \"I have added trades in trading journal but they are not reflecting \\n\"}"
+    ],
+    [
+        1699467966,
+        "avadh2808@gmail.com",
+        "{\"name\": \"avadh\", \"topic\": \"Others\", \"number\": \"9662892898\", \"feedback\": \"please make video how do u select stock whichever is shown on instagram with profits. \"}"
+    ],
+    [
+        1699432179,
+        "vsdevlekar@gmail.com",
+        "{\"name\": \"VIVEK DEVLEKAR\", \"topic\": \"Others\", \"number\": \"7900136135\", \"feedback\": \"Dear Team, Please create group of traders so they can chat, discuss, share info to each other so new traders can gain knowledge from experience traders. As everyone talking in youtube chat to each other. eg. how was your trade, what was your trade, where do you trade etc.  \\n\\nThank you.\"}"
+    ],
+    [
+        1699425095,
+        "sonawane2@gmail.com",
+        "{\"name\": \"Snehal Sonawane\", \"topic\": \"Others\", \"number\": \"9739051761\", \"feedback\": \"Hi Sir and team,\\n\\nPlease provide the ALGO trading facility for working people, those who are not able to check the market status in between 9 to 6.\\n\\nThanks,\\nSnehal S.\"}"
+    ],
+    [
+        1699375193,
+        "kprincegupta@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/D9USJWGF0M07.png\", \"name\": \"PRINCE KUMAR\", \"topic\": \"Others\", \"number\": \"7295888788\", \"feedback\": \"I HAVE SUGGESTION REGARDING DELHIVERY SCANNER PLEASE ATTACH TRADING VIEW[ DHAN CHART ] BY JUST CLICKING ON STOCKS NAME AS OTHER SECTION STOCKS CHART OPEN BY DIRECTLY CLICKING. \"}"
+    ],
+    [
+        1699366952,
+        "anikettrading5577@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/T5DDEZ39JCMB.png\", \"name\": \"Aniket\", \"topic\": \"Others\", \"number\": \"8791632377\", \"feedback\": \"I think that TCI also add a segment in tredcode of foreign market over all view like over night positive or negative of combining all foreign market and show details of different foreign market for there students itself on tredcode like i share image it will be available on tredcode and overall positive , negative of foreign market\"}"
+    ],
+    [
+        1699328791,
+        "sandeepmittal1995@gmail.com",
+        "{\"name\": \"Sandeep Mittal\", \"topic\": \"Trading Journal\", \"number\": \"9999039624\", \"feedback\": \"I think Entry price and Exit price shouldn't be mandatory . It should be RR achieved or Directly what profit /loss is made. \\nAt TCI we are always trailing and booking partially so it's difficult to fill in and use it from entry and exit price.\"}"
+    ],
+    [
+        1699327971,
+        "www.hasirarafath@gmail.com",
+        "{\"name\": \"hasir\", \"topic\": \"Pro Setups\", \"number\": \"9597716398\", \"feedback\": \"here the tci may give pattern based breakout stocks for swing trading is very helpfull for us\"}"
+    ],
+    [
+        1699299644,
+        "wahidabdul4185@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/KWHUYDGHNNWG.jpeg\", \"name\": \"A Wahid Bagwan \", \"topic\": \"Trading Journal\", \"number\": \"7385535761\", \"feedback\": \"After adding a trade it not showing on trading journal\\nKindly do the needful \"}"
+    ],
+    [
+        1699299573,
+        "wahidabdul4185@gmail.com",
+        "{\"name\": \"A Wahid Bagwan \", \"topic\": \"Trading Journal\", \"number\": \"7385535761\", \"feedback\": \"After adding a trade it not showing on journal\\nKindly do the needful \"}"
+    ],
+    [
+        1699280416,
+        "chiraggaruda99@gmail.com",
+        "{\"name\": \"CHIRAG A GARUDA\", \"topic\": \"Moneyflux\", \"number\": \"8460087967\", \"feedback\": \"SIR APKO F&O  ME ALAG SE HEAT MAP BANAYENGE TO STOCK SELECTION ME EASY RAHEGA JESE AAJ AARTI OR EICHER F&O ME AARTI SIRF INTRDAY BOOST AND HIGH POWER ME THA OR IOC BHI INTRDAY BOOST ME THA TO HAME AB SAB TALLY KARNE ME STOCK HATH SE NIKAL JATE HE PAR AGAR F&o KA HEAT MAP AAJTA HE PURE STOCK KA TO ESY RAHEGA PLEAS SOCHO EK BAR\"}"
+    ],
+    [
+        1699271423,
+        "lalitpawar32@gmail.com",
+        "{\"name\": \"Lalit\", \"topic\": \"Others\", \"number\": \"9076625237\", \"feedback\": \"Sir aap end of the day Jo aapke executed trade upload karte ho , uspe sirf aap kaha se find karte ho aur reason mention kiya to usefull hoga \\nThanks. \"}"
+    ],
+    [
+        1699259387,
+        "gopiz.official@gmail.com",
+        "{\"name\": \"Gopi\", \"topic\": \"Pro Setups\", \"number\": \"8680864652\", \"feedback\": \"In 5 mins & 10 mins momentum section please highlighted stock which is the part of IB on that day, it will be helpful and easy to pick stock.. \"}"
+    ],
+    [
+        1699252142,
+        "drmehtavaibhav@gmail.com",
+        "{\"name\": \"Vaibhav Mehta\", \"topic\": \"Others\", \"number\": \"9820844958\", \"feedback\": \"Kindly make a video to show how to use the Delivery Scanner. Thank You\"}"
+    ],
+    [
+        1699242359,
+        "gopinathjhere@gmail.com",
+        "{\"name\": \"Gopinath \", \"topic\": \"Sectoral Flow\", \"number\": \"9566342621\", \"feedback\": \"Make Sectorial Flow to be auto refreshed\"}"
+    ],
+    [
+        1699241875,
+        "suman.dandi479@gmail.com",
+        "{\"name\": \"Suman Dandi\", \"topic\": \"Moneyflux\", \"number\": \"9176472791\", \"feedback\": \"Not able to make money consistently with the moneyflux strategy \"}"
+    ],
+    [
+        1699202859,
+        "lovekesh.malhotra@gmail.com",
+        "{\"name\": \"LovekeshMalhotra\", \"topic\": \"Trading Journal\", \"number\": \"9803333133\", \"feedback\": \"I just would like to request kindly do one update in trading journal part. If I shall update my trade post market in the journal, it does not allow me to enter the details of trade. I have to update my trade while market is open. Therefore, please look into it.\"}"
+    ],
+    [
+        1699202065,
+        "tejasbansod0633@gmail.com",
+        "{\"name\": \"Tejas bansod\", \"topic\": \"Trading Journal\", \"number\": \"7378483357\", \"feedback\": \"hum jab 1:1 pr 50% qty book krte hai orr baki 50% trail, pr isse trading journal pr kaise add kre , sometimes stock 1:1 rr dene ke baad  entry level pr stop loss lga dete hai baki 50%  qty ke liye  toh trading journal breakeven dikhata hai or 1st 1:1 pr jo 50% qty  book ki hai woh count nhi hota\"}"
+    ],
+    [
+        1699124087,
+        "shubonil1000rr@gmail.com",
+        "{\"name\": \"Shubonil Majumdar\", \"topic\": \"Others\", \"number\": \"9804944531\", \"feedback\": \"Hi, It's a suggestion for TCI Community portal. Can you introduction a comment section in community portal where only \\\"TCI faculty\\\" will be able to comment to give feedback or something right. The post creator may be able to react to your comment. This will help us to know your feedback directly from you. Alongside, I won't suggest you to add a comment section for us because then there will be lot of queries or questions or replies in the community as well just like support portal. Hope this will be implemented. \"}"
+    ],
+    [
+        1699104225,
+        "subodey4@gmail.com",
+        "{\"name\": \"Subhajit\", \"topic\": \"Others\", \"number\": \"9577420334\", \"feedback\": \"We need Side bar back.. Why Remove this.. Sidebar easy to use.. Please Re backt it... New update is Worse... Didn't like it...\"}"
+    ],
+    [
+        1699062336,
+        "shrisoukatageri@gmail.com",
+        "{\"name\": \"shrishail katageri\", \"topic\": \"Moneyflux\", \"number\": \"7259749412\", \"feedback\": \"as showing in money flux all stocks r in green ,but nifty falling ,last 2 sessions ,this  is very scary ,why data and chart showing against \"}"
+    ],
+    [
+        1699036019,
+        "mahiinmail@gmail.com",
+        "{\"name\": \"Mahesha\", \"topic\": \"Sectoral Flow\", \"number\": \"9880676764\", \"feedback\": \"Add more sector like IT, Chemicals, Consumer Durable, Electrical, Finance, FMCG, Logistics, Paper, Footwear, Ship Building, Telecom, Retail, Textile\"}"
+    ],
+    [
+        1698924884,
+        "guptasubham.23@gmail.com",
+        "{\"name\": \"SubhamGupta\", \"topic\": \"Others\", \"number\": \"7980017967\", \"feedback\": \"Sir what we missing is dashboard of creative tredcode . Since all these section are tools to trade in market ,so why not we can have some scan system in which we. Will search those which are present Hp,ib or moneyflux ,ib.it will enhance tredcode performance.\"}"
+    ],
+    [
+        1698822273,
+        "vishnuprsd13@gmail.com",
+        "{\"name\": \"vishnu\", \"topic\": \"Others\", \"number\": \"9884724767\", \"feedback\": \"when our mentors trade a stock,if they say what are they trading at that time,it will be helpful for us to understand and learn...all make profit and loss..whatever if our mentors says..it will be good for students.\\nso kindly recomend the trade when mentors trading.\\nthank you\"}"
+    ],
+    [
+        1698812314,
+        "unnikrishnancgs@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/05286GBALPN0.png\", \"name\": \"unnikrishnan\", \"topic\": \"Moneyflux\", \"number\": \"9746935197\", \"feedback\": \"Hi,\\nthere is no chart loading in the left side of moneyflux\"}"
+    ],
+    [
+        1698812141,
+        "abnish1994@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/3GWB75R4QAOX.png\", \"name\": \"Abnish Kumar\", \"topic\": \"Moneyflux\", \"number\": \"8451948851\", \"feedback\": \"Can try to add sector wise in moneyflux, I have attached prototype screenshot.\\nThank you\"}"
+    ],
+    [
+        1698805664,
+        "amitssarya@gmail.com",
+        "{\"name\": \"Amit Arya\", \"topic\": \"Others\", \"number\": \"9826295747\", \"feedback\": \"Continuous learning and timely update is the key requirement for success in the market. I am happy to see the continuous improvement in the Tredcode. Wish you all (The TCI Team & TCI Traders Community) a bright future ahead.\"}"
+    ],
+    [
+        1698740965,
+        "ankur1129@gmail.com",
+        "{\"name\": \"Ankur Aggarwal\", \"topic\": \"Sectoral Flow\", \"number\": \"9815246824\", \"feedback\": \"Please show the sector names horizontally, it is difficult to read them in vertical alignment. Align them a bit like index analysis\"}"
+    ],
+    [
+        1698740389,
+        "alvis.1978@gmail.com",
+        "{\"name\": \"MURALI C\", \"topic\": \"Market Depth\", \"number\": \"9444101632\", \"feedback\": \"IS IT POSSIBLE TO MAKE ONE MORE COLUMN \\nPOWER BOOST \\nIN THE POWER BOOST STOCK ARE REFLECTED BOTH INTRADAY BOOST AND HIGH POWERED STOCK SO THAT IT WILL GOOD SUCCESS RATIO.\\n\"}"
+    ],
+    [
+        1698673568,
+        "g.sean47@gmail.com",
+        "{\"name\": \"SEAN GEORGE\", \"topic\": \"Trading Journal\", \"number\": \"9645157002\", \"feedback\": \"30TH OCTOBER IS GREYED OUT AS HOLIDAY. PLEASE CHECK\"}"
+    ],
+    [
+        1698666083,
+        "vikramg.g@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/8XA9Z3YNZT52.png\", \"name\": \"Vikram\", \"topic\": \"Moneyflux\", \"number\": \"9036046776\", \"feedback\": \"Can we Add 5 min Time frame in Moneyflux charts\"}"
+    ],
+    [
+        1698652174,
+        "nikhilfinn@gmail.com",
+        "{\"name\": \"nikhil\", \"topic\": \"Others\", \"number\": \"7731851358\", \"feedback\": \"actually why dont you provide oi data for all fno stocks like bn , nifty\\nthat will be very helpful sir\"}"
+    ],
+    [
+        1698611837,
+        "bawa6663@gmail.com",
+        "{\"name\": \"baljinder singh\", \"topic\": \"Others\", \"number\": \"9041259680\", \"feedback\": \"sir many stocks iv increase daily spikes there should be section of iv spike of options\"}"
+    ],
+    [
+        1698593034,
+        "viralpatel4891@gmail.com",
+        "{\"name\": \"VIRAL PATEL\", \"topic\": \"Trading Journal\", \"number\": \"9898539070\", \"feedback\": \"HI SIR, \\nTRADING JOURNAL ME AAP KYA \\\" PARTIAL BOOK \\\" OR 1:1 PAR BOOK KIYA HO USKE LIYE KUCH ADD KAR SAKTE HE KYA???\\nKYUKI AFTER ENTRY 1:1 PAR ME HALF QUNTY EXIT KARTA HU JAISE \\\"TCI\\\" ME SHIKHYA JATA HE TO USKE BAD TRAIL KARTE HE OR WO SL HIT HOTA HE TO ENTRY PRICE TO SAHI RAHEGI PAR EXIT PRICE KUCH QYUNTY KE LIYE CHNAGE HO JAYEGI TO USMNE P/L ME MISMATCH HO JATA HE....\\nHO SAKE TO PLZ UPDATAE IT...\\nTHANK YOU.\"}"
+    ],
+    [
+        1698572917,
+        "dhanolebalram@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/UP2FM4WDZS6D.png\", \"name\": \"Balram dhanole\", \"topic\": \"Others\", \"number\": \"8964064110\", \"feedback\": \"Dhan chart is not opening from delivery percentage section,kya is section se chart open nahi kr skte? I think,yaha se bhi chart open hona chahiye\"}"
+    ],
+    [
+        1698567897,
+        "dongreswapnil@gmail.com",
+        "{\"name\": \"Swapnil\", \"topic\": \"Others\", \"number\": \"7722077333\", \"feedback\": \"please provide silent button in the page environment as need to silent phone or laptop while surfing tredcode when in mob.\"}"
+    ],
+    [
+        1698479066,
+        "divyeshprajapat809@gmail.com",
+        "{\"name\": \"Divyesh prajapat \", \"topic\": \"Index Analysis\", \"number\": \"8529194717\", \"feedback\": \"Bring back option chain on tredcode. We need it back. \"}"
+    ],
+    [
+        1698425229,
+        "robbie.rbn@gmail.com",
+        "{\"name\": \"Robin\", \"topic\": \"Others\", \"number\": \"9894445451\", \"feedback\": \"Whenever I chose stock from tredcode and entered after orb breakout. I ended up with sl hitting! So what Should I do an extra for picking same directional stock? Give some piece of extra nuances to follow\"}"
+    ],
+    [
+        1698420573,
+        "subodey4@gmail.com",
+        "{\"name\": \"SUBHAJIT DEY\", \"topic\": \"Trading Journal\", \"number\": \"9577420334\", \"feedback\": \"HI TEAM, \\n      \\n       DEAR TEAM, PLEASE ADD TAX CALCUALTION ON JOURNAL , FOR EXAMLE WHEN  JOURNAL ENTRY PLASED IT SHOULD SHOW THE NET PNL AFTER TAX DEDUCTION...\"}"
+    ],
+    [
+        1698413665,
+        "suhas.mv89@gmail.com",
+        "{\"name\": \"Suhas \", \"topic\": \"Trading Journal\", \"number\": \"8904516491\", \"feedback\": \"It will greatly help if you can add a download option, so that we can download and make physical copies and improve our trade\\n\"}"
+    ],
+    [
+        1698413665,
+        "suhas.mv89@gmail.com",
+        "{\"name\": \"Suhas \", \"topic\": \"Trading Journal\", \"number\": \"8904516491\", \"feedback\": \"It will greatly help if you can add a download option, so that we can download and make physical copies and improve our trade\\n\"}"
+    ],
+    [
+        1698406003,
+        "jayrabara99@gmail.com",
+        "{\"name\": \"jay\", \"topic\": \"Others\", \"number\": \"9725476759\", \"feedback\": \"nifty and banknifty spot prices are not updating, please do needful\"}"
+    ],
+    [
+        1698379064,
+        "mallipeddisunil@gmail.com",
+        "{\"name\": \"Sunil Kumar M\", \"topic\": \"Market Depth\", \"number\": \"8096661000\", \"feedback\": \"Hi Team,\\n\\nCan we have a section to identify stocks for only intraday trading. Thanks.\"}"
+    ],
+    [
+        1698378901,
+        "tejeshwar923@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/2TJE5VNB6SLN.png\", \"name\": \"Tejeshwar Sharma\", \"topic\": \"Moneyflux\", \"number\": \"8210427759\", \"feedback\": \"jahan pr strength bar hoti hai use first 20 to 30 mins me judge krna impossible ho jata because we dont have enough data to compare it with anything so may be agr us strength pr koi NUMBER ho so itll be easy for us to judge the strength.\"}"
+    ],
+    [
+        1698334896,
+        "manasroymr7@gmail.com",
+        "{\"name\": \"Manas Roy\", \"topic\": \"Trading Journal\", \"number\": \"8617433843\", \"feedback\": \"Sir Also add the charges  section.\\nAnd percent of charges i.e brokerage, STT etc.\\nIt will beneficial for us. To analyse the actual return.\\nIf charges are more we can  reduce the no. Of trades.\"}"
+    ],
+    [
+        1698333441,
+        "sandip99242@gmail.com",
+        "{\"name\": \"Sandip Patel\", \"topic\": \"Sectoral Flow\", \"number\": \"9924299311\", \"feedback\": \"Sir, kya hum sectoral flow me nifty smallcap nd midcap dal sakte hai kya?\"}"
+    ],
+    [
+        1698331262,
+        "vigortraders28@gmail.com",
+        "{\"name\": \"Viraj Patil\", \"topic\": \"Others\", \"number\": \"9322841820\", \"feedback\": \"I have one idea to do tredcode more advanced and structural for evry type of trading. Like nifty and Banknifty oi compass and index analysis you can add crude oil , gold , natural gas in tredcode for those who trade in commodities, etc. \"}"
+    ],
+    [
+        1698292531,
+        "dinu776@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/1QK5TGTV716L.jpeg\", \"name\": \"DINESH BABU M\", \"topic\": \"Index Analysis\", \"number\": \"8886118099\", \"feedback\": \"It shows only for TCI students. I'm also a TCI student. My mail ID is dinu776@gmail.com\"}"
+    ],
+    [
+        1698292396,
+        "dinu776@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/K0YYFR161KME.jpeg\", \"name\": \"DINESH BABU M\", \"topic\": \"Moneyflux\", \"number\": \"8886118099\", \"feedback\": \"It's shows only for TCI students. I'm also a TCI student. My mail Id is dinu776@gmail.com.\"}"
+    ],
+    [
+        1698291577,
+        "harshvardhan7376@gmail.com",
+        "{\"name\": \"Harsh Vardhan\", \"topic\": \"Others\", \"number\": \"7068048390\", \"feedback\": \"Sir jo ticket raise karte ham sab usme edit ka option daal digiye aap. taaki ek baar ticket ko raise karne ke baad dubara edit kiya ja sake. aur ek hi sawal ke liye 2 ticket raise na ho. agar apko sahi lage to.\"}"
+    ],
+    [
+        1698291302,
+        "prathmeshmh10@gmail.com",
+        "{\"name\": \"Prathmesh Uttam Bawadekar\", \"topic\": \"Swing Centre\", \"number\": \"9890080291\", \"feedback\": \"Request you to add NR7 strategy stock segment. \"}"
+    ],
+    [
+        1698254300,
+        "sanjaytrimurti1985@gmail.com",
+        "{\"name\": \"SANJAY SORATHIYA\", \"topic\": \"Trading Journal\", \"number\": \"9638977507\", \"feedback\": \"DEAR SIR TRADING JOURNAL WAS AWESOME BUT SOME CORECTION WAS ,  \\nENTRY CRITERIA DONE IN MANUALY, LIKE STRIKE , WHICH AND EXP DETAIL MENTION , DATE AND TIME  ,CAPITAL ADD ONLY FOR CALCULATION ROCE, AND ROI,  \\n\"}"
+    ],
+    [
+        1698249971,
+        "shindemaheshh@gmail.com",
+        "{\"name\": \"Mahesh Shinde \", \"topic\": \"Others\", \"number\": \"9022854311\", \"feedback\": \"Sir make video how to use scanner and FII DII Activity tool \"}"
+    ],
+    [
+        1698246530,
+        "chandewadnagesh@gmail.com",
+        "{\"name\": \"Nagesh chandewad\", \"topic\": \"Moneyflux\", \"number\": \"7387665682\", \"feedback\": \"hello Team,\\n\\nHuge respect for the app you built. Moneyflux is one of the best features I have ever come across.\\nI just want to add one thing, if we can add time slots in the Money flux that would be very great like index analysis.\\nthis might be silly but if can add. As we can get to know the stocks which were there at that particular time.\\n\"}"
+    ],
+    [
+        1698217516,
+        "rohitkanthe27@gmail.com",
+        "{\"name\": \"Rohit Kanthe \", \"topic\": \"Market Depth\", \"number\": \"7378707978\", \"feedback\": \"Please add Time on Intraday boost stock... Coz when time clock shown on Intraday boost then new trader got some idea what time stock has getting move faster and what time we enter at any bigbull adding there position \"}"
+    ],
+    [
+        1698217287,
+        "wedstudio.official@gmail.com",
+        "{\"name\": \"oi compass\", \"topic\": \"Others\", \"number\": \"9310002515\", \"feedback\": \"Oi compass not working properly\"}"
+    ],
+    [
+        1698214661,
+        "gopiz.official@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/ROMOAZQKLC8S.png\", \"name\": \"gopi\", \"topic\": \"Others\", \"number\": \"8680864652\", \"feedback\": \"If possible, please add India VIX on the header near Nifty and Bank Nifty\"}"
+    ],
+    [
+        1698213703,
+        "vibhav221190@gmail.com",
+        "{\"name\": \"Vibhav Dwivedi\", \"topic\": \"Others\", \"number\": \"9971144442\", \"feedback\": \"Sir can we please introduce a button that can silent the notification tab, \\nwhen ever we open tredcode or switch in tabs there is a loud noise of notification.  \\n\\nI am in office so if i miss to mute my system everyone looks at me as what has happened. \\n\\nRegards,\\nVibhav\"}"
+    ],
+    [
+        1698160192,
+        "ravatnayan1@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/GWW0IQ2BA9JI.jpeg\", \"name\": \"Nayan ravat\", \"topic\": \"Index Analysis\", \"number\": \"9870207963\", \"feedback\": \"Provide data on daily basis attached in screenshot \"}"
+    ],
+    [
+        1698160124,
+        "ravatnayan1@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/J977Z9U0UCSP.jpeg\", \"name\": \"Nayan ravat\", \"topic\": \"Index Analysis\", \"number\": \"9870207963\", \"feedback\": \"Please provide fno data like DII fii prop retail future long/short position and option money flow like you have created fii/DII cash data so it will be easy for us to understand the market structure after market hours when nse publish data  \\n\\nAttaching screenshots from twitter \"}"
+    ],
+    [
+        1698150658,
+        "amar.parihar143@gmail.com",
+        "{\"name\": \"amar parihar\", \"topic\": \"Others\", \"number\": \"9510847143\", \"feedback\": \"sir can u add long buildup and shor unwinding option so that we can get idea in trade\"}"
+    ],
+    [
+        1698112146,
+        "amanduhan55022@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/V8VXOIWOPRAL.png\", \"name\": \"aman\", \"topic\": \"Others\", \"number\": \"7056398208\", \"feedback\": \"my support portal is not wokrking from last 1month , i tried to contact u but nothing response\"}"
+    ],
+    [
+        1698052734,
+        "krrisshdoyal@gmail.com",
+        "{\"name\": \"Krishna kumar\", \"topic\": \"Others\", \"number\": \"9509971752\", \"feedback\": \"All section are amazing sir \\nPlease add news sections. So we don't need to go on other websites for checking news.\"}"
+    ],
+    [
+        1698036873,
+        "nishuprakash007@gmail.com",
+        "{\"name\": \"Nishanth KP\", \"topic\": \"Index Analysis\", \"number\": \"9035313317\", \"feedback\": \"Hi Team,\\nWe have multiple options to see the where sellers and buyers is more but still many are making loss in early entry and some time not exiting at right time because multiple reason.\\nTo avoid this confusion I think TCI can implement entry and exit signle in index chart with R factor and other strong signal this will help us\"}"
+    ],
+    [
+        1698036438,
+        "nishuprakash007@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/JALDUQISXOL5.jpeg\", \"name\": \"Nishanth\", \"topic\": \"Others\", \"number\": \"9035313314\", \"feedback\": \"Hi Team,\\nThis is what I noticed on expiry day some time specially OTM and ATM when the market is side ways till mid day and the option price decay is normal than usual ex - maker is falling but slow where ce and pe both unable to profit but at some time where found some major supp also looking at the OTM price it's decayed more than usual  ex 100\\\"rs finnifty OTM at 11 should be around 6 to 8rs but it was around 1.45 Paisa this is where we can find hero zero trade.\\nIn simple words if want to say I just wanted to know when the premium decay is fast \"}"
+    ],
+    [
+        1698033247,
+        "sawantvishal222@gmail.com",
+        "{\"name\": \"vishal sawant\", \"topic\": \"Others\", \"number\": \"9850058978\", \"feedback\": \"plz add commodity section in trade code\"}"
+    ],
+    [
+        1698026947,
+        "adityatiwari.nitjsr@gmail.com",
+        "{\"name\": \"aditya\", \"topic\": \"Index Analysis\", \"number\": \"9110120481\", \"feedback\": \"SIR PLEASE OF POSSIBLE GIVE THE GRAPHICAL PRESENTATION OF CE AND PE . ITS CROSS OVER AND SUCH DEPICTION WILL HELP US THE BUYER . NOW SELLERS ARE GETTING HELP A LOT . THE GRAPHICAL REPRESENTATION OF CE AND PE ATM WILL BE HELPFUL ALOT\"}"
+    ],
+    [
+        1697984510,
+        "aniketdattatrayakale1989@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/ZSXNPXEPE043.jpeg\", \"name\": \"Aniket Kale\", \"topic\": \"Others\", \"number\": \"9930130294\", \"feedback\": \"Requirement- \\n1- Day Wise OI built up (LB/SB/SC/LW)\\n- Sector built up \\n- Stock built up \"}"
+    ],
+    [
+        1697981939,
+        "nsavaliya1008@gmail.com",
+        "{\"name\": \"Nikunj savaliya \", \"topic\": \"Moneyflux\", \"number\": \"8980140354\", \"feedback\": \"Money flux ne kon sa time best he stock ko select kar ne ke liae\"}"
+    ],
+    [
+        1697978109,
+        "vimaljangid00@gmail.com",
+        "{\"name\": \"vikas\", \"topic\": \"Trading Journal\", \"number\": \"7300313575\", \"feedback\": \"sir in the trading journal you can show all the trading a person is taken in whole the time that way many don't have to go and select to show the trade that way it will more easy\"}"
+    ],
+    [
+        1697964757,
+        "amitgadekar92@gmail.com",
+        "{\"name\": \"Amit Jagtap \", \"topic\": \"Market Depth\", \"number\": \"8888513818\", \"feedback\": \"Dear sir please add serial number of every stock in Top level and Low level its easy to compare how many stocks near day low and how many near day high according to this we predict market direction \"}"
+    ],
+    [
+        1697947877,
+        "akshay230892@gmail.com",
+        "{\"name\": \"AKSHAY SHAH\", \"topic\": \"Others\", \"number\": \"7820841010\", \"feedback\": \"SIR IN DHAN STRATAGEY BUILDER, WHERE CAN WE SEE PROBABLITY(POP)?\"}"
+    ],
+    [
+        1697898470,
+        "tejas.bembalkar@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/1F50ZVU6OGLT.png\", \"name\": \"Tejas Bembalkar\", \"topic\": \"Sectoral Flow\", \"number\": \"7030200042\", \"feedback\": \"hello team If there are any chances to add a sector chart to the sectoral flow that will help TCI students determine which sector is giving a nice price action, Mometum can find smooth stocks for perfect entry.\"}"
+    ],
+    [
+        1697823850,
+        "contact.hrcpharma@gmail.com",
+        "{\"name\": \"Akshay garg\", \"topic\": \"Others\", \"number\": \"9627019019\", \"feedback\": \"Please teach about pyramiding which Chinmay sir usually use in intraday trading\u2026.as he usually makes 1:3 profit with stock giving only 1:1 through up pyramiding\u2026.this will help students a lot \\n\\nThanks \\nAkshay garg \"}"
+    ],
+    [
+        1697810927,
+        "divsri10@gmail.com",
+        "{\"name\": \"divyanshu\", \"topic\": \"Trading Journal\", \"number\": \"9919294091\", \"feedback\": \"please add option to see average win for both day wise and overall number of trades taken . like for now we can see average winner for number for days , if we can add option to see average winner for the overall trades not considering the days would be helpful . thanks\"}"
+    ],
+    [
+        1697776506,
+        "tejeshwar923@gmail.com",
+        "{\"name\": \"Tejeshwar Sharma\", \"topic\": \"Moneyflux\", \"number\": \"8210427759\", \"feedback\": \"In the money flux heatmap we can have sector name in a bracket just below/above/right/left side of the stocks.\"}"
+    ],
+    [
+        1697776355,
+        "ggrr31@gmail.com",
+        "{\"name\": \"Garima Singh\", \"topic\": \"Market Depth\", \"number\": \"8587911418\", \"feedback\": \"Putting \u201cE\u201d sign on stock having event and are also showing in market depth so that students can directly avoid those stocks \"}"
+    ],
+    [
+        1697721344,
+        "vinodkesarkar007@gmail.com",
+        "{\"name\": \"Vinod Kesarkar\", \"topic\": \"Index Analysis\", \"number\": \"6262949999\", \"feedback\": \"I'm Also TCI student bt i didn't got index analysis access.\\nplz give me ASAP.\\n\"}"
+    ],
+    [
+        1697717293,
+        "akber1111@gmail.com",
+        "{\"name\": \"mohammed akber khan\", \"topic\": \"Index Analysis\", \"number\": \"9160003187\", \"feedback\": \"Sir, pls add or provide an option to select a range of strike prices in index analysis. By default, we see multiple strikes for which we see the OI in vertical and horizontal graph which includes all default strike(s) of OI and the graph is a representation of all OI combined.\\n\\nI request you to consider an option where a user of tredcode can choose to see the OI data of select strike range.\\n\\nExample : Nifty OI for 19460 to 19650\\nBankNifty OI for 43500 to 44500 \\n\\nThis type of feature is available on tradingtick.com but can be very powerfully used if made available in tredcode.\\n\\nKindly reach out to me if you need further inputs. Thank u.\"}"
+    ],
+    [
+        1697716694,
+        "akber1111@gmail.com",
+        "{\"name\": \"Mohammed Akber Khan\", \"topic\": \"Moneyflux\", \"number\": \"9160003187\", \"feedback\": \"Sir, pls add the LIVE price of Index on the Money Flux Graph beside the name of the index\"}"
+    ],
+    [
+        1697711717,
+        "ca.adityachaturvedi@gmail.com",
+        "{\"name\": \"Aditya Chaturvedi\", \"topic\": \"Moneyflux\", \"number\": \"7021865980\", \"feedback\": \"Just like Index Analysis gives the option to view in a particular TIME RANGE (for example... 10am to 11am), bring a similar feature for Moneyflux also. Using that option, traders will be able to practice and back test their strategies, considering which and how many stocks were appearing in Moneyflux in a particular TIME RANGE on a given day.\"}"
+    ],
+    [
+        1697658116,
+        "subodey4@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/IBUPD7DZA31I.jpeg\", \"name\": \"Subhajit Dey\", \"topic\": \"Others\", \"number\": \"7002708660\", \"feedback\": \"Sir Can you Add Live Lime over the  Up Left Corner Or  in box of IB + HP it will be help full for us Sir... Live time 12 Hrs. Format\"}"
+    ],
+    [
+        1697642846,
+        "muhammed.sameen92@gmail.com",
+        "{\"name\": \"muhammed sameen\", \"topic\": \"Trading Journal\", \"number\": \"7736137224\", \"feedback\": \"Why is there no option for options? Please, at least, add a sectoral index (just nifty, BN, FN), and then it will be helpful for people like me to follow our trade journal.\"}"
+    ],
+    [
+        1697617209,
+        "iampathan00@gmail.com",
+        "{\"name\": \"Suleman Pathan\", \"topic\": \"Others\", \"number\": \"8007752529\", \"feedback\": \"We are new traders and we have huge problem is that we have not have a lot of capital and now we see market are very choppy this days . So my requuest is please do some changes in tredcode for that we can look into FOREX MARKET  to trade make consistent income . This days are also not movement in  EQUITY also. We complete your classes but not get more benefit of tredcode \"}"
+    ],
+    [
+        1697555975,
+        "krsnafyers@gmail.com",
+        "{\"name\": \"vamsi krishna\", \"topic\": \"Trading Journal\", \"number\": \"9758118267\", \"feedback\": \"please give the data win rate too sir. how many wins and losses from total trades data also required \"}"
+    ],
+    [
+        1697522945,
+        "kachhiya69@gmail.com",
+        "{\"name\": \"Saurabh kachhiya \", \"topic\": \"Others\", \"number\": \"9737556648\", \"feedback\": \"Sir\\nMy suggestion is make a segment where we'll see all cement company + All refinery + all sugar stocks CASH STOCKS etc. So we also track which segment roaring today..\\n\"}"
+    ],
+    [
+        1697518383,
+        "hari.chintakunta@gmail.com",
+        "{\"name\": \"Hari Prasad reddy \", \"topic\": \"Others\", \"number\": \"9703997031\", \"feedback\": \"A small suggestion, as we are learning but we want to travel with group of people who is also interested in trading, to get good results and improve ourselves so why can't you think in a way to join community people together to learn and explore things in a better way , if some people are staying a particular city they can meet up discuss things, if interested they can work together to learn more \"}"
+    ],
+    [
+        1697518103,
+        "chandrakanthesnagari@gmail.com",
+        "{\"name\": \"Chandra kanth\", \"topic\": \"Others\", \"number\": \"9381623871\", \"feedback\": \"Provide fno stocks top Gaines n looser \"}"
+    ],
+    [
+        1697477118,
+        "sharananphukon@gmail.com",
+        "{\"name\": \"sharanan phukon\", \"topic\": \"Others\", \"number\": \"7002723928\", \"feedback\": \"here you can add live chating message box..where every one can chat during market hours..\\n\"}"
+    ],
+    [
+        1697460745,
+        "saikatekar19@gmail.com",
+        "{\"name\": \"Sai katekar \", \"topic\": \"Market Depth\", \"number\": \"8412801537\", \"feedback\": \"market depth main stock select karne ke baad dhan ka chart open hota hai par jab again dusra stock select karunga to ek or dusra new TAB open hota hai woh thik krado 4-6 chart ek hi screen pe dekhne main asani hogi alag alag tab pe jaa ke har ek ka chart dekhna sahi nahi lagta kuth toh miss ho jayega aisa lagta hain muzhe  isse accha dhan layout pe ek ek add hoo jaye to badhiya hoga \"}"
+    ],
+    [
+        1697399865,
+        "janagamsaikumar@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/50JBSZJGVEPP.jpeg\", \"name\": \"Janagam saikumar\", \"topic\": \"Index Analysis\", \"number\": \"8179614989\", \"feedback\": \"Can tci add feature to filter for data in time-frame buckets like in the picture and index filtering from 3min to 1min. This makes the traders to filter easily when price action confirms and trade with confluence quickly \"}"
+    ],
+    [
+        1697267207,
+        "abhishekks205@gmail.com",
+        "{\"name\": \"Abhishek KS\", \"topic\": \"Swing Centre\", \"number\": \"7338006971\", \"feedback\": \"Looking forward for Swing centre for all NSE Stocks so would be more convienient for swing traders too.\"}"
+    ],
+    [
+        1697199224,
+        "rajeshrajesh57762@gmail.com",
+        "{\"name\": \"Rajesh\", \"topic\": \"Moneyflux\", \"number\": \"9080779957\", \"feedback\": \"How many data combine to create money flux tool ?\\n\"}"
+    ],
+    [
+        1697172976,
+        "balupolice3556@gmail.com",
+        "{\"name\": \"Balakrishna\", \"topic\": \"Others\", \"number\": \"7989799616\", \"feedback\": \"Daily 52 weeks breakout stocks are moving very very huge movement sir\\n\\nSo please provide  52 weeks breakout stocks list sir\\n\\nPlease provide ORB upside breakout folder, ORB downside breakout folder sir\"}"
+    ],
+    [
+        1697172639,
+        "tih.bharuch@gmail.com",
+        "{\"name\": \"YASH PATEL\", \"topic\": \"Moneyflux\", \"number\": \"7016559124\", \"feedback\": \"Dear sir,\\nTredcode team Provide any alerts System in moneyflux? So in mid market if any stock having strong momentum will traceable.\\nLike if any updates from your side we get beep from updates section.\"}"
+    ],
+    [
+        1697129378,
+        "kashyap.dobariya4838@gmail.com",
+        "{\"name\": \"Kashyap \", \"topic\": \"Sectoral Flow\", \"number\": \"9662515195\", \"feedback\": \"Helo,\\n   Rearrange the sectoral flow segment like money flux. In which we can see 2 part left and righ. Left part as sectoral flow in vertical base in which we can select any sector and it shows stock in right part. Its very useful \"}"
+    ],
+    [
+        1697122222,
+        "adeshgupta03@gmail.com",
+        "{\"name\": \"Adesh Gupta\", \"topic\": \"Pro Setups\", \"number\": \"8097747484\", \"feedback\": \"Can you build a feature wherein the time is also getting captured from when the stock starts to reflect in Moneyflux / IB? It will be easier for us to backtest in that.\"}"
+    ],
+    [
+        1697119188,
+        "srmadiwal1666@gmail.com",
+        "{\"name\": \"Satish R Madiwal\", \"topic\": \"Others\", \"number\": \"9923666828\", \"feedback\": \"Provide alert on Dhan Broker chart.\"}"
+    ],
+    [
+        1697100946,
+        "sanjaydravid123@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/GSXDWX0CJ1H8.png\", \"name\": \"SANJAY DRAVID N P\", \"topic\": \"Others\", \"number\": \"8904123986\", \"feedback\": \"FACING MAJOR ISSUE IN STOCK SELECTION SIR , AND MISSING GOOD MOVING STOCK BY ADDING MORE STOCK IN WATCHLIST FROM MONEY FLUX IB , PLZ HELP ME TO WHICH STOCK TO ADD AND HOW TO SELECT GOOD STOCK TO TRADE\"}"
+    ],
+    [
+        1697043125,
+        "deepanshugupta388@gmail.com",
+        "{\"name\": \"Deepanshu Gupta\", \"topic\": \"Swing Centre\", \"number\": \"7015258109\", \"feedback\": \"Hi, Can TCI team add R factor in Swing center stocks also??\"}"
+    ],
+    [
+        1697043125,
+        "deepanshugupta388@gmail.com",
+        "{\"name\": \"Deepanshu Gupta\", \"topic\": \"Swing Centre\", \"number\": \"7015258109\", \"feedback\": \"Hi, Can TCI team add R factor in Swing center stocks also??\"}"
+    ],
+    [
+        1697042446,
+        "maskepatilvijay@gmail.com",
+        "{\"name\": \"vijay maske \", \"topic\": \"Trading Journal\", \"number\": \"9637292835\", \"feedback\": \"Sir if possible to download trading journal in PDF format so we can print it out and rectify our self where we are weak. otherwise we need to write journal in written format also to review weekly/monthly trades.  because here we can put everything which is in written format but at the review time we need to check one by one so kindly create  download button in trading journal tool.\"}"
+    ],
+    [
+        1697012447,
+        "aks.dll@gmail.com",
+        "{\"name\": \"Akshay Pednekar\", \"topic\": \"Market Depth\", \"number\": \"9970764322\", \"feedback\": \"Top Level and Low Level Stocks - If there is a possibility to add a column which shows the R Factor it will be easy to identify the stocks which need to be watched carefully.\\n\\nORB Stocks - One new category which shows the list of stocks which have broken the 5 min and 15 min candle on the upper or lower side. Columns in this category should include R Factor to help easily spot stocks to be watched.\"}"
+    ],
+    [
+        1697012050,
+        "golemohit01@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/BTI0AXQSCXR7.png\", \"name\": \"gghj\", \"topic\": \"Market Depth\", \"number\": \"16846513845\", \"feedback\": \"test\"}"
+    ],
+    [
+        1697008411,
+        "dhiraj.khanna.in@gmail.com",
+        "{\"name\": \"Dhiraj Khanna\", \"topic\": \"Sectoral Flow\", \"number\": \"9899775914\", \"feedback\": \"Hi\\n\\nMy feedback - Tredcode does not show the Sector - Nifty Commodities, which includes all Cement stocks. \\n\\nToday, there was momentum in this Sector but this was not reflected in Tredcode. \"}"
+    ],
+    [
+        1697008189,
+        "lalitcmalviya@gmail.com",
+        "{\"name\": \"Lalit Malviya \", \"topic\": \"Others\", \"number\": \"9860144124\", \"feedback\": \"Add Events Sections , So we know which event are today and globally news .\"}"
+    ],
+    [
+        1697007756,
+        "amitgadekar92@gmail.com",
+        "{\"name\": \"AMIT JAGTAP\", \"topic\": \"Sectoral Flow\", \"number\": \"8888513818\", \"feedback\": \"Existing sectorial flow was best . i have sugestion to add more micro  sector with stock like cement, defance, insurance, other than this i love tradecode\"}"
+    ],
+    [
+        1696840185,
+        "akashjatajaj@gmail.com",
+        "{\"name\": \"AKASH JAT \", \"topic\": \"Others\", \"number\": \"7627050961\", \"feedback\": \"sir there is no special videos on investment stocks how to search long term investment stocks for future ,like fundamental analysis and a good company to get invested for long term even if the market crashes in covid or in any war situation we could sit calmly that the company is going to perform in long run up \\nplease make a video and post it on students portal .\\none of your students\\nthank you\\nakash jat .\"}"
+    ],
+    [
+        1696832915,
+        "siddharthshinde308@gmail.com",
+        "{\"name\": \"SIDDHARTH PRAKSH SHINDE\", \"topic\": \"Others\", \"number\": \"9923484811\", \"feedback\": \"I have a suggestion, i am a tci member from last feb i believe and i as intructed and  guided by mentors of TCI i did started with  just small capital however my way of selecting stocks and executing still has not been improved and when i see chinmay sirs intagram post i am really facinated. I suggest that there should be atleast 1 week in every month where he should actually record his screen till he trade so that we should also get an idea on how he is able to pick the right stocks or atleast a live selection and trading process for all students which will help the people like us to know where we are missing on where we are struggle what are the major and minor misses from us . It has quite been a long time now where i am struggling from this and i do not know i check pre market , then i go to IB and money flux i see which stock are present in majority, i track them with ORB i enter yet i am in loss. However others manage to make money with some stock which i do not enter in or idk if im impatient or so. I request you to please one week in a month show us LIVE how you are executing your trade day everyday this will actually help us\"}"
+    ],
+    [
+        1696832593,
+        "siddharthshinde308@gmail.com",
+        "{\"name\": \"SIDDHARTH PRAKSH SHINDE\", \"topic\": \"Index Analysis\", \"number\": \"9923484811\", \"feedback\": \"My suggestion here for index analysis section here is since we mostly focus on what happen in past one hour \\n\\nThere should have a small tab where once we click it automatically sets from current time till last 60 mins data without changing any current settings so we get both options manually adjust time and automatically set to 60 mins data from the current time\\n\\nFor eg : at 12:30 Pm i am exploring index analysis and beside the timing bar i see a tab that says (1HR) as soon as i click that it auto sets the index time to 11:30AM to 12:30 PM. This will help save time and much easier , just a suggestion\"}"
+    ],
+    [
+        1696830323,
+        "sachin.prakash02@gmail.com",
+        "{\"name\": \"Sachin Prakash\", \"topic\": \"Others\", \"number\": \"9972173321\", \"feedback\": \"Enable APIs from Intraday Boost and Money Flux it will help in people with coding background to create algo based on the stocks appearing in tredcode :)\"}"
+    ],
+    [
+        1696816158,
+        "vishalwakodikar23@gmail.com",
+        "{\"name\": \"vishal wakodikar\", \"topic\": \"Others\", \"number\": \"7972610943\", \"feedback\": \"all over is excellent but one thing you should provide us i.e. directions pdf for guidence to use tredcode application. because as a new trader it sometimes does not remember  about some tabs like. pro setups, etc. kindly provide it, it will help us to read pdf .\"}"
+    ],
+    [
+        1696770006,
+        "nbsjangra@gmail.com",
+        "{\"name\": \"neeraj jangra\", \"topic\": \"Moneyflux\", \"number\": \"8053839255\", \"feedback\": \"along with the indices if possible to add sector wise money flux option. like finnifty and bank nifty are already given, along with that, IT, metal, pharma, FMCG etc sectors could be added to the money flux. it will help to choose stocks sector wise in which their is more money flow. \"}"
+    ],
+    [
+        1696676857,
+        "dhamuark@gmail.com",
+        "{\"name\": \"Dhamodharan \", \"topic\": \"Trading Journal\", \"number\": \"9787721322\", \"feedback\": \"Kindly modify journal to add any 24 hour scrip , like forex , mcx and others , \"}"
+    ],
+    [
+        1696656905,
+        "hellofia.dev@gmail.com",
+        "{\"name\": \"Dev Mishra\", \"topic\": \"Others\", \"number\": \"8130150696\", \"feedback\": \"With TCI's & mentors' blessings I am trying to better my trading journey with every passing day. My suggestion would be that we make the tredcode interface more sleek and smooth and also incorporate 1 minute timeframe in moneyflux. Also, respected mentors please give us students the training & access to the Bloomberg terminal in Tredcode itself, if possible.\\nLastly, keep guiding us and training us towards financial, choice & time freedom as always.\\n\\nHeartiest thankyou.\"}"
+    ],
+    [
+        1696608839,
+        "amarpatil7299@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/B0OYLG9QJIT4.jpeg\", \"name\": \"Amar Patil \", \"topic\": \"Moneyflux\", \"number\": \"9900665262\", \"feedback\": \"Sir, it showing locked not open ,it's locked screen what I do sir \"}"
+    ],
+    [
+        1696608837,
+        "amarpatil7299@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/MWZGFOBEPVIR.jpeg\", \"name\": \"Amar Patil \", \"topic\": \"Moneyflux\", \"number\": \"9900665262\", \"feedback\": \"Sir, it showing locked not open ,it's locked screen what I do sir \"}"
+    ],
+    [
+        1696596758,
+        "josephclibin@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/DPSCGFZEHZI6.jpeg\", \"name\": \"Joseph Clibin\", \"topic\": \"Index Analysis\", \"number\": \"00966542455374\", \"feedback\": \"OI compass is not visible\"}"
+    ],
+    [
+        1696593109,
+        "amannmalikk0786@gmail.com",
+        "{\"name\": \"Aman Malik\", \"topic\": \"Trading Journal\", \"number\": \"9927506852\", \"feedback\": \"Sir Kindly add ACCURACY of total trades feature in trading Journal \"}"
+    ],
+    [
+        1696582543,
+        "siddarthkrupakar1@gmail.com",
+        "{\"name\": \"Siddarth\", \"topic\": \"Trading Journal\", \"number\": \"9591500159\", \"feedback\": \"Hello,\\nCan you please add multiple entries and multiple exit on a single instrument. The journal now has a single entry and single exit but if you add multiple level entries and exit this journal will become a game changer.\"}"
+    ],
+    [
+        1696581353,
+        "yckshirsagar46@gmail.com",
+        "{\"name\": \"Suyash Chandrakant Kshirsagar\", \"topic\": \"Index Analysis\", \"number\": \"9028374481\", \"feedback\": \"Kindly informed daily chart analysis for option trading when to take trade or not. \"}"
+    ],
+    [
+        1696578043,
+        "rameshkumawat97@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/H9TECIP2RQZY.docx\", \"name\": \"RAMESH\", \"topic\": \"Moneyflux\", \"number\": \"9724697787\", \"feedback\": \"Instead of the numbers written below the stock, it is better if the intraday change percentage in the stock is %. Like in case of intraday boost stock, what happens is that even before entering, one gets to know by what percentage the stock has gone up or down, so whether one has to enter or not. I hope you will solve this problem soon.\"}"
+    ],
+    [
+        1696573623,
+        "apexcitys2@gmail.com",
+        "{\"name\": \"Sujal Sunil Gupta\", \"topic\": \"Pro Setups\", \"number\": \"9920736281\", \"feedback\": \"Hello Sir,\\nYou can add near yesterday\\\"s poc or something like that option too. Like there is one such as near prev day high. Similarly something of near prev day poc or such. Basically something around poc. \\nBy the way Tredcode is an amazing tool sir!!! And i really appreciate tci\\\"s efforts behind their students and tools!!!\\nThanks & Regards\"}"
+    ],
+    [
+        1696567202,
+        "infovishalchauhan@gmail.com",
+        "{\"name\": \"Vishal chauhan\", \"topic\": \"Others\", \"number\": \"9137240590\", \"feedback\": \"I have advice to improve tredcode. Hum ek index bana sakte hai jo current day ke aggression ko indicate karega. for example\\n-3,-2,-1,0,1,2,3 for example aaj ka din bohar aggressively bullish ya bearish toh yeh index 3 or -3 indicate karega iska matlap yeh hoga ki aaj hum  aggressively trade kar sakte and big profit bana sakte hai. and aaj ka neutral there is no momentum in stocks then yeh 0 indicate karega iska matlan yeh hoga ki aaj  aggressively kam nahi karna. isse hum strong bearish & Bullish day pe focus kar payenge and neutral day ko avoid kar payenge and unwanted Loss kam hoga.\\nand iska calculation hum based on how many stocks trade above and below 5% , less than 5%/-5% & how many stock trade above 10%, moneyflow, overall open interest ,pre market activity and others parameter ko include kar sakte hai.\\nIf isko aap log banayenge toh mujhe contact karna I will help you.  Thank you\"}"
+    ],
+    [
+        1696485227,
+        "rohitpoddar96.rp.rp@gmail.com",
+        "{\"name\": \"Rohit\", \"topic\": \"Others\", \"number\": \"7908150754\", \"feedback\": \"Requesting to introduce the algos sir.. I remember when I started attending classes at the start of the year one senior guy asked you about it and you said algos will be available soon..\\n\\nEagerly looking upto that..\"}"
+    ],
+    [
+        1696417075,
+        "skumardxb2020@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/YXG488KPF8S8.jpeg\", \"name\": \"Sudheer Kumar\", \"topic\": \"Moneyflux\", \"number\": \"971552152015\", \"feedback\": \"Dear sir,\\nPlease find the  screenshot  and I cant see the Smart money activity in the money flux or any other page Please do the needful \"}"
+    ],
+    [
+        1696410193,
+        "bipinntpc512@gmail.com",
+        "{\"name\": \"BIPIN KUMAR\", \"topic\": \"Moneyflux\", \"number\": \"8873149024\", \"feedback\": \"THE STRENGTH SHOWING BELOW THE INDEX CHART IN MONEY FLUX IS VERY GOOD. \\nIS IT POSSIBLE ALSO FOR STOCKS THAT THE MONEFLUX STRENGTH CAN BE SEEN BELOW THE CHART?\"}"
+    ],
+    [
+        1696400801,
+        "nitisharora.trading@gmail.com",
+        "{\"name\": \"NITISH ARORA\", \"topic\": \"Others\", \"number\": \"8318871861\", \"feedback\": \"FEEDBACK:\\nWHEN WE CLICK ON \\\"M&MFIN\\\" DHAN OPEN \\\"M&M\\\"\\nWHEN WE CLICK ON \\\"NAUKRI\\\" NEW TAB OPENS \\\"ABOUT:BLANK\\\"\"}"
+    ],
+    [
+        1696396263,
+        "rushichavhan6@gmail.com",
+        "{\"name\": \"Rushikesh\", \"topic\": \"Others\", \"number\": \"7776812391\", \"feedback\": \"please remove that sound everytime when i refresh any factor that sound is irritating . please look into that . \"}"
+    ],
+    [
+        1696369572,
+        "akashvarathe@gmail.com",
+        "{\"name\": \"Akash varathe\", \"topic\": \"Trading Journal\", \"number\": \"8459583620\", \"feedback\": \"In current Gernal section we have to make maual entry and need to upload screenshot , it can be directly fetch from Dhan,\\n\"}"
+    ],
+    [
+        1696350167,
+        "sourav.mondalr1997@gmail.com",
+        "{\"name\": \"Sourav Mondal \", \"topic\": \"Others\", \"number\": \"7003014671\", \"feedback\": \"Make charts loading more fast. \"}"
+    ],
+    [
+        1696344875,
+        "nitin.subbaiah@gmail.com",
+        "{\"name\": \"Nitin\", \"topic\": \"Trading Journal\", \"number\": \"9886800433\", \"feedback\": \"Hi Team,\\n\\nIs it possible to enhance the Trading Journal with few additional fields so that it can also be used to capture Options trading\"}"
+    ],
+    [
+        1696340071,
+        "wolf2estien@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/AHH47VRUX29T.png\", \"name\": \"Winson\", \"topic\": \"Sectoral Flow\", \"number\": \"9448972591\", \"feedback\": \"Hi Sir, Please Inform me How to pick the stock under sectorial flow. I saw Chinmay Sir and lots of other students who traded in the MGL, which was part of the Bearish sector but Was the trade entered based on a high R factor, isn't the trade opposite to the direction of the Broader Market? OR  I got too confused about it. Please help me with exactly how I shall pick up the stock based on it.\\n\\nThank you\"}"
+    ],
+    [
+        1696313877,
+        "lucky.kumbhare1@gmail.com",
+        "{\"name\": \"lucky kumbhare\", \"topic\": \"Moneyflux\", \"number\": \"9179768265\", \"feedback\": \"Respected Chinmay sir, \\n                                      sir money flux me sentiment dial and pcr continue use me nhi aata hai. To ku na money flux ke Heat map ko uper side shift kar diya jaye. aur sentiment dial and pcr ko down side me side kar diya jaye. isse view aur better ho sakta hai.\"}"
+    ],
+    [
+        1696127535,
+        "chandu955n@gmail.com",
+        "{\"name\": \"Bala sumanth sai chandu\", \"topic\": \"Moneyflux\", \"number\": \"8341518517\", \"feedback\": \"Sir you can add another midcap Or smallcap in money flux stocks which will not appear in midcap example, Deepakntr, dixon, srf, ramcomcement, bergerpaint, vedanta\\n\"}"
+    ],
+    [
+        1696088942,
+        "sonilokesh214@gmail.com",
+        "{\"name\": \"LOKESH SONI\", \"topic\": \"Trading Journal\", \"number\": \"8319911861\", \"feedback\": \"DEAR TEAM,\\n\\nPLEASE ADD FILTER BUTTONS IN TRADING JOURNAL ALSO\"}"
+    ],
+    [
+        1696063843,
+        "rohitdeshbhratar88@gmail.com",
+        "{\"name\": \"Rohit deshbhratar\", \"topic\": \"Trading Journal\", \"number\": \"9145338220\", \"feedback\": \"Sir entry and exit price add karne par real profit/Loss show nahi hota kyu ki mai partial profit book karta hu. to entry ke samay ki quantity aur exit ki quatntity change ho jati hai ...aur journal me entry aur exit  total quantity ke sath show hota hai jisase P/L actual P/L se kam ya phir jyada show hota hai.....\"}"
+    ],
+    [
+        1696057292,
+        "optimistic.geet@gmail.com",
+        "{\"name\": \"Gurpreet Kaur\", \"topic\": \"Others\", \"number\": \"7083541862\", \"feedback\": \"I am really very thankful to the entire TCI team for developing such a great tool \\\"TREDCODE\\\". No words to explain that how much helpful it is in our trading. I have not started doing option trading till now but loving the tool how smoothly it gives good stocks to us. I was really very depressed before joining TCI because watching videos on you tube and applying the strategy was not working. With this course now I know that slow and steady one day I will also be successful. Yes I am working very slow because my baby is very small so don't get much time in the morning and most of the time miss good stocks from IB and money flux but somedays momentum spike section saves me. Very happy to find good teachers. \\\"A BIG THANKU TO ALL THE MENTORS AND WHOLE TEAM\\\". \"}"
+    ],
+    [
+        1695997907,
+        "nitin.subbaiah@gmail.com",
+        "{\"name\": \"Nitin\", \"topic\": \"Trading Journal\", \"number\": \"9886800433\", \"feedback\": \"\\\"Suggestion to save space for storing images\\\"\\n\\nHi Team,\\n\\nThe Trading Journal is wonderfull Kudos to the effort. Here is small suggestion in saving space when it comes to images.\\n\\nIn both Trading View and Dhan we have the option of capture (Camera icon) clicking on which below is the options available.\\n\\nDownload Image\\nCopy Image\\nCopy Link\\nOpen in New Tab\\nfew more..\\n\\nBy selecting the copy link option, we will be provided with a link (when user clicks on link image opens in new tab) for example below is one of the trade I had taken. \\nhttps://www.tradingview.com/x/yb3Sd91K/\\n\\nIf you can provide option to save the link and thereby forcing users to save link rather then image this would help in saving space as the database will only have to save the link not the entire image file.\\n\\nNot sure if this was already considered but here was my two cents to make the product better.\\n\"}"
+    ],
+    [
+        1695959049,
+        "sbpsoumya@gmail.com",
+        "{\"name\": \"soumya ranjan sahoo\", \"topic\": \"Moneyflux\", \"number\": \"9124067088\", \"feedback\": \"just like index analysis give time in money flux like 9.15 to 3.30\"}"
+    ],
+    [
+        1695895466,
+        "srahul4011@gmail.com",
+        "{\"name\": \"rahul\", \"topic\": \"Trading Journal\", \"number\": \"8328400164\", \"feedback\": \"previously i mentioned about wrong entry of tata steel in my journal and i'm trying to delete it but it's not\"}"
+    ],
+    [
+        1695876702,
+        "srahul4011@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/GSJIS8N1LJYD.docx\", \"name\": \"RAHUL\", \"topic\": \"Trading Journal\", \"number\": \"8328400164\", \"feedback\": \"IN THIS I DIDN'T TAKE TATA STEEL ENTRY ON 27/9/23 BUT THIS IS SHOWING IN MY ACCOUNT\"}"
+    ],
+    [
+        1695828474,
+        "vpk77710@gmail.com",
+        "{\"name\": \"Pramod\", \"topic\": \"Trading Journal\", \"number\": \"7022404398\", \"feedback\": \"Dear TCI team, I'm truly enjoying this trading journal as it helps me track my performance in one go and I sincerely thank you all and appreciate your efforts behind the platform. However; just a suggestion, is there a way that we can download all the uploaded journals, perhaps by end of each month or so, to help us save it as a database for future reference for ourselves. If you can think about it, that'll be great. \"}"
+    ],
+    [
+        1695796942,
+        "jigisharma12@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/APGUJHEO923N.png\", \"name\": \"Jignesh Sharma\", \"topic\": \"Market Depth\", \"number\": \"8488877430\", \"feedback\": \"Sir, I have a suggestion. I'm not sure if that will be applied or not but if that happens I am sure every user of our TCI community will love it. \\n\\nPls see the screenshot which I have attached. So I'm asking that the stocks which are present in both IB and HP should have same color coding. \\n\\nIn today's screenshot there are multiple stocks but that is rare. sometimes only 2-3 stocks are present both in IB and HP with highest R factor. \\n\\nSo I was thinking that if they have the same color coding, it will be much easier to locate the most active stocks. Some Users have small screens and this layout can get sometimes confusing. \\n\\nBut if they have the same color coding, then just at a simple look (even on mobile) one can understand which stock to target. I'm sure you know that we need to be fast for intraday opputunities and it will surely help us to be fast. \\n\\nMay I know if this is something that can be incorporated? \\n\\nJignesh\"}"
+    ],
+    [
+        1695787452,
+        "gargritin98@gmail.com",
+        "{\"name\": \"ritin \", \"topic\": \"Pro Setups\", \"number\": \"9910827950\", \"feedback\": \"hi,\\ni think, we can put pre market section on top in pro setup.\"}"
+    ],
+    [
+        1695785943,
+        "shwetz888@gmail.com",
+        "{\"name\": \"Shwetank\", \"topic\": \"Moneyflux\", \"number\": \"9886488728\", \"feedback\": \"Tredcode is one of the best tools to trade with. It will be better if there will be a notification whenever a stock comes under top 5 in moneyflux, Or if new stocks appears in moneyflux or whenever enters in top 5 of IB or so.\\n\\nRegards.\"}"
+    ],
+    [
+        1695784948,
+        "sourav.mondalr1997@gmail.com",
+        "{\"name\": \"Sourav Mondal \", \"topic\": \"Market Depth\", \"number\": \"7003014671\", \"feedback\": \"Add common stocks filter option to quickly find HP and IB common stocks. \"}"
+    ],
+    [
+        1695745783,
+        "ayushpatil406406@gmail.com",
+        "{\"name\": \"ayush patil\", \"topic\": \"Sectoral Flow\", \"number\": \"7498400931\", \"feedback\": \"you should also provide moneyflux to each sector. if we click on the trending sector the trending stocks will be visible in heat map.\"}"
+    ],
+    [
+        1695730666,
+        "akashh9622@gmail.com",
+        "{\"name\": \"akash dutta\", \"topic\": \"Market Depth\", \"number\": \"9046453289\", \"feedback\": \"sir in market depth and in other features it there we can see..... does the sector of the stock is  is bullish or bearish...because many times we take buy entry but whole stock sector gets bearish ....sir you can just mark bullish sector small light bearish small red light beside the stock it helps a lot sir....thank u sir\"}"
+    ],
+    [
+        1695729797,
+        "jindalsubham5@gmail.com",
+        "{\"name\": \"SUBHAM JINDAL\", \"topic\": \"Pro Setups\", \"number\": \"8384059832\", \"feedback\": \"Hey sir muhje join kiye huye 3 months ho gye 2 lakh k loss me hu pleas help me to out off this jo trade code me show krta ha me usme entry leta hu or loss ho jata ha syd mare entry or exit time pr nhi ho rahe sir prosetup me kase me 30k capital se profit kru jise mera 2 lakh k loss recover ho jay .... \"}"
+    ],
+    [
+        1695722704,
+        "himanshuvaishnav490@gmail.com",
+        "{\"name\": \"himanshu vaishnav\", \"topic\": \"Others\", \"number\": \"9829682044\", \"feedback\": \"i would suggest that in i our tradecode shipbulding stock not seeing like mazdock COCHIN SHIP YARD \\nAND many more like varun bevrages and sugar stocks also \\ni would also suggest that not getting smoothly data manytimes its lag \\none more we can add this tahant when we opening sectorial flow ypu should provide more sectors and theri charts \\nand provide more institutional stock also\"}"
+    ],
+    [
+        1695719322,
+        "ankur1129@gmail.com",
+        "{\"name\": \"Ankur\", \"topic\": \"Sectoral Flow\", \"number\": \"9815246824\", \"feedback\": \"Sector Name not easy to ready as they are vertical currently. Please make their font 1 - 2 step bigger and make the whole word slant (rotate to +30 degrees)\"}"
+    ],
+    [
+        1695709270,
+        "pankajshah4ever@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/B95SQC20V7OT.png\", \"name\": \"Pankaj Shah\", \"topic\": \"Index Analysis\", \"number\": \"9833936887\", \"feedback\": \"I have been trading in currency USD / INR for the last few months both option buying/option selling. Contracts have good liquidity and market participation. 2 - 3 Strike prices above and below the current spot price have combined 4-5 lakh contracts open interest and this has been continuously going up in recent months. Also using strangles, I am able to generate around 1.5 - 2 % yield on my capital. In my experience so far, USD / INR is less volatile compared to Nifty / Bank Nifty / Fin Nifty / Mid Cap Nifty / Sensex etc., and a way to begin your journey in option selling for beginners.\\n\\nI would like TCI team to consider including USD / INR in Index Analysis section which can show recent movement in CE  / PE.\"}"
+    ],
+    [
+        1695704519,
+        "amar.parihar143@gmail.com",
+        "{\"name\": \"amar parihar\", \"topic\": \"Moneyflux\", \"number\": \"9510847143\", \"feedback\": \"sir can u add long buildup ,long unwinding , short buildup and short unwinding option   in money flux\"}"
+    ],
+    [
+        1695700072,
+        "shrijit123@gmail.com",
+        "{\"name\": \"shrijit rokade\", \"topic\": \"Index Analysis\", \"number\": \"9823927288\", \"feedback\": \"Stock options intraday -please try to add the price levels for demand and supply to trade stock options daily basis.\\nSimilar to index analysis levels in tredcode,where we can know the levels of supply and demand(S&R).\\nBy adding this stock levels, the trading game will definitely change for small retail traders and will increase the volatility overall.\\nThankyou.\"}"
+    ],
+    [
+        1695699428,
+        "ssagarrai@gmail.com",
+        "{\"name\": \"Sagar Rai\", \"topic\": \"Others\", \"number\": \"9175105617\", \"feedback\": \"I feel if we could keep once in a month a kind of conference where mentors and the students who are doing good , can share their thoughts followed by Q&A. This way we will feel more connected and can help keeping the losers motivated\"}"
+    ],
+    [
+        1695699278,
+        "ssagarrai@gmail.com",
+        "{\"name\": \"Sagar Rai\", \"topic\": \"Others\", \"number\": \"9175105617\", \"feedback\": \"We have so many filters like IB, HP, MoneyFlux, sectorwise, so when i trade, I personally check MF and then checks if that stock is in IB, HP, Sector as well, this takes considerable time because we need to scan 10-20 stocks to get the setup.\\nIf we can create a filter that can scan the stocks which is present in all or most of the areas, we may consider trading that.\\nThis will help I guess\"}"
+    ],
+    [
+        1695659446,
+        "chandra56abhilash@gmail.com",
+        "{\"name\": \"Abhilash Chandra\", \"topic\": \"Trading Journal\", \"number\": \"7840075113\", \"feedback\": \"We don't always exit full qty. Sometimes we exit 50% of the qty and trail the rest. So we exit 50% at different price. There must be something do fill that\"}"
+    ],
+    [
+        1695635192,
+        "anand.devkar51@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/PVLM3YWQ4ESY.png\", \"name\": \"ANAND\", \"topic\": \"Trading Journal\", \"number\": \"9975379874\", \"feedback\": \"Daily trade WIN/LOSE data should be export to PDF, Excel.\"}"
+    ],
+    [
+        1695631617,
+        "belakhankarhal@gmail.com",
+        "{\"name\": \"Ramlakhan\", \"topic\": \"Others\", \"number\": \"7906427334\", \"feedback\": \"Hello Sir,\\nThanks for continuously adding feature also it is great after trading journal.\\nI would suggest 1 more section if you can add,\\n\\\"Can you please add a section which have common stocks from HP, IB and Money flux?\\\"\\n\\nIt would be deadly section and we will be very sure and  not to move anywhere after this.\\n\\nHope you will think on this. \\n\\nRegards,\\nRamlakhan\\n  \"}"
+    ],
+    [
+        1695621716,
+        "shivgoyal7877@gmail.com",
+        "{\"name\": \"Shivam Goyal\", \"topic\": \"Moneyflux\", \"number\": \"9729787724\", \"feedback\": \"In money flux, the *Midcap* sector is not the same as the Nifty Midcap Select index, I think it would be good if only Midcap Select index stocks were included in the Midcap part in Money flux, as there are only 25 stocks in Midcap Select  but in money flux, I can see around 40 to 50 stocks in Midcap part\\nIt's my suggestion as I think it would improve the stock selection according to the index\\n\"}"
+    ],
+    [
+        1695615928,
+        "kailash8126@gmail.com",
+        "{\"name\": \"Kailash\", \"topic\": \"Others\", \"number\": \"9917491525\", \"feedback\": \"Sir you have to make a Special Group for Your Students Only... Think and Understand about this.. Thank u sir\"}"
+    ],
+    [
+        1695612022,
+        "gohil.rahulsingh@gmail.com",
+        "{\"name\": \"rahul singh\", \"topic\": \"Others\", \"number\": \"7976079858\", \"feedback\": \"kya aap all index add kr skte h jinka heat map ho or heat map pr hi click krke uss index k stocks ka bhi heat map khul jaaye and waha se jo bhi bullish or bearish stock select kr ske\\n\"}"
+    ],
+    [
+        1695611781,
+        "gokul9rajagopal@gmail.com",
+        "{\"name\": \"Gokul R\", \"topic\": \"Trading Journal\", \"number\": \"7994512585\", \"feedback\": \"Hi Team,\\nfirst of all I would like to tell to that TCI is doing a great job by assisting people to learn and make  money in stock market. Thank you.\\nOne of the suggestion which I would like to get it is to indroduce trading journal for Option trading also. and please bring back buildup data of index\"}"
+    ],
+    [
+        1695572985,
+        "rohitpoddar96.rp.rp@gmail.com",
+        "{\"name\": \"Rohit Poddar\", \"topic\": \"Index Analysis\", \"number\": \"7908150754\", \"feedback\": \"Please add crude oil OI data and money flux data like Nifty and BN.\"}"
+    ],
+    [
+        1695567054,
+        "pawarnilesh1711@gmail.com",
+        "{\"name\": \"nilesh pawar\", \"topic\": \"Others\", \"number\": \"8007495169\", \"feedback\": \"change my email id\"}"
+    ],
+    [
+        1695455500,
+        "aabhasverma40@gmail.com",
+        "{\"name\": \"Aabhas Verma\", \"topic\": \"Others\", \"number\": \"9419250218\", \"feedback\": \"Hello team TCI. I have a suggestion. Its regarding the students portal. In the community section in students portal, can you please think of adding a comment section below where ideas can be exchanged? It would help a lot I guess. A forum kind of thing. Please do think about this if it is doable or not. Thank you. \"}"
+    ],
+    [
+        1695366822,
+        "gopinathjhere@gmail.com",
+        "{\"name\": \"Gopinath\", \"topic\": \"Sectoral Flow\", \"number\": \"9566342621\", \"feedback\": \"Add one more section for Nifty Midcap like Nifty,Bnf\"}"
+    ],
+    [
+        1695360834,
+        "dknaix@gmail.com",
+        "{\"name\": \"test\", \"topic\": \"Sectoral Flow\", \"number\": \"9325235351\", \"feedback\": \"asdasda\"}"
+    ],
+    [
+        1695359189,
+        "pavankumar77795@gmail.com",
+        "{\"name\": \"pavan kumar\", \"topic\": \"Trading Journal\", \"number\": \"8074918190\", \"feedback\": \"unable to delete the wrong entry trades, might be the delete button was disable\"}"
+    ],
+    [
+        1695357833,
+        "hi2345manshu@gmail.com",
+        "{\"name\": \"abhitabh jain himanshu\", \"topic\": \"Moneyflux\", \"number\": \"8130519957\", \"feedback\": \"jese index analysis me after market bhi time ko adjust karke data ko dekh skte h vese hi kya hm moneyflux me bhi ek time adjustment nhi lga skte jisse ki ham sab poore din ka money flux ka data dekh ske or subah kya ho rha tha monyfux me 12 bje kya hua etc .    ham isko kayi saare jagah use kar skte h isse after market data readin me asani hogi . thanks sir\\n\"}"
+    ],
+    [
+        1695356106,
+        "sreeram.ravishankar@gmail.com",
+        "{\"name\": \"Sreeram\", \"topic\": \"Others\", \"number\": \"9791069459\", \"feedback\": \"Please let me know if there are any plans for Algo trading, I can help code in Python / Tradetron. \"}"
+    ],
+    [
+        1695309337,
+        "sourabhkj1996@gmail.com",
+        "{\"name\": \"Sourabh Kumar Jain\", \"topic\": \"Moneyflux\", \"number\": \"9950252532\", \"feedback\": \"Hello Team, Can we add 5 Minutes time Frame in Money flux too for indexes. I will be more smooth to trade. As there is no doubt that TCI has made my Trading Easy. Lots of wishes for Team TCI.\"}"
+    ],
+    [
+        1695306140,
+        "amitkumarskn96@gmail.com",
+        "{\"name\": \"Om\", \"topic\": \"Index Analysis\", \"number\": \"8604603884\", \"feedback\": \"How can we check index analysis how much time instance\"}"
+    ],
+    [
+        1695302850,
+        "deepakaga822@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/1ZSWQ8MWUXLT.png\", \"name\": \"DEEPAK AGARWAL\", \"topic\": \"Trading Journal\", \"number\": \"9660014076\", \"feedback\": \"IN THIS TRADING JOURNAL WE CAN ONLY ADD ENTRY AND EXIT ONE TIME. SO SOMETIMES WHAT HAPPENS WE BUY STOCK ON DIFFERENT PRICE AND WE KEEP ADDING QTY OR WE EXIT STOCK AT 1:1 THEN WE TRAIL AND EXIT SOME QTY ON 1:3 AND SO ON BUT IN THIS JOUNAL WE ARE NOT ABLE TO PUT DIFFERENT QTY AT DIFFERENT PRICES I THINK THAT FEAUTRE IS MUST IN IT TO MAKE IT PERFECT TRADING JOURNAL.\"}"
+    ],
+    [
+        1695302849,
+        "deepakaga822@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/7821U8EQDDFJ.png\", \"name\": \"DEEPAK AGARWAL\", \"topic\": \"Trading Journal\", \"number\": \"9660014076\", \"feedback\": \"IN THIS TRADING JOURNAL WE CAN ONLY ADD ENTRY AND EXIT ONE TIME. SO SOMETIMES WHAT HAPPENS WE BUY STOCK ON DIFFERENT PRICE AND WE KEEP ADDING QTY OR WE EXIT STOCK AT 1:1 THEN WE TRAIL AND EXIT SOME QTY ON 1:3 AND SO ON BUT IN THIS JOUNAL WE ARE NOT ABLE TO PUT DIFFERENT QTY AT DIFFERENT PRICES I THINK THAT FEAUTRE IS MUST IN IT TO MAKE IT PERFECT TRADING JOURNAL.\"}"
+    ],
+    [
+        1695298023,
+        "kishan207@gmail.com",
+        "{\"name\": \"Kishan Jobanputra\", \"topic\": \"Others\", \"number\": \"8866147829\", \"feedback\": \"Hi..you guys have done fabulous work developing tredcode. Thank you for that.\\nOne suggestion from my side : Moneyflux is a great tool. The script colors are very useful identifying the stock nature. You can apply same color of that script across the tredcode so that one can easily identity that stock's nature wherever it comes across. \\ni.e. if M&M is bearish and if it's in dark maroon color in moneyflux then same color we'll find for M&M in intradayboost or in high powered stocks section.\\nThat way we won't have to toggle through screen/pages for assurance.\"}"
+    ],
+    [
+        1695285105,
+        "rjadhav74@gmail.com",
+        "{\"name\": \"Rajesh\", \"topic\": \"Index Analysis\", \"number\": \"9881007137\", \"feedback\": \"Index Analysis is lock not able to use.Please unlock\"}"
+    ],
+    [
+        1695281902,
+        "harshbaldha959@gmail.com",
+        "{\"name\": \"Harsh Baldha\", \"topic\": \"Moneyflux\", \"number\": \"7777966644\", \"feedback\": \"if we can see heat map on timing basis, it will help us understand after which move the stock came in money-flux. Specially for mid day breakouts \"}"
+    ],
+    [
+        1695276543,
+        "ranjanprabhat555@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/THOLFC6G18GO.jpeg\", \"name\": \"Prabhat Ranjan Shahi\", \"topic\": \"Sectoral Flow\", \"number\": \"7974330090\", \"feedback\": \"if possible please make the sectoral flow like this or just like moneyflux and give option to trader that he can chose whether he want to connect with dhan or tradingview there should be an option for that  or make chart of every stocks appera on the tredcode itself  like in moneyflux it will be easy for trader to chose and trade as chart is directly avaible on tredcode so\"}"
+    ],
+    [
+        1695275062,
+        "padmanabhan.abhishek@gmail.com",
+        "{\"name\": \"Abhishek S Padmanabhan\", \"topic\": \"Others\", \"number\": \"8888885177\", \"feedback\": \"Hello,\\n\\nPlease increase your focus a little bit more on Swing Trading as well. There are many people who cannot do Intra-day. And, after going through all the classes of TCI, I feel like TCI is 90% focused on intra-day and only 10% on Swing Trades.\\n\\nBesides, this is not something TCI mentions to students before joining. So people who wanted to learn about Swing and positional trading strategies, setups, stock selections, etc feel disappointed.\\n\\nOther than this, TCI is doing a great job. Thank You!\"}"
+    ],
+    [
+        1695270365,
+        "fawasrfj@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/SRWLOTXJWRC6.jpeg\", \"name\": \"Fawas\", \"topic\": \"Moneyflux\", \"number\": \"9995337228\", \"feedback\": \"Most of the time same issue happens,not loading\"}"
+    ],
+    [
+        1695269758,
+        "anmolkaushik633@gmail.com",
+        "{\"name\": \"Anmol\", \"topic\": \"Others\", \"number\": \"9664109909\", \"feedback\": \"Sir please add cash stocks also in money flux \"}"
+    ],
+    [
+        1695241393,
+        "surajkumar143a@gmail.com",
+        "{\"name\": \"suraj\", \"topic\": \"Trading Journal\", \"number\": \"9122008244\", \"feedback\": \"ek hin trade multiple times show kar rha h . aur delete karne se bhi delete nhi ho raha hai\"}"
+    ],
+    [
+        1695208836,
+        "photographypage30@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/W580PYI8KLSQ.png\", \"name\": \"Varun Raajan\", \"topic\": \"Trading Journal\", \"number\": \"7904128504\", \"feedback\": \"If I can select my photo and view it in maximize mode it would be highly helpful. Big fan of your work team. I'm always a supporter for you guys\"}"
+    ],
+    [
+        1695207732,
+        "shivain79@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/8T6M09PG7M2G.jpeg\", \"name\": \"ShivaPrashantha\", \"topic\": \"Moneyflux\", \"number\": \"9632313695\", \"feedback\": \"Hello, Greetings! \\nI have some idea about Tredcode. Like Money flux for Nifty/BankNifty/FinNifty shall you add a search tab for FnO stocks? Attached an screenshot of Money flux page. In that there should be a search box in which we need to enter the picked stock for trade. Money flux should show the trend bars of that stock like now it showing for Nifty/BankNifty/FinNifty. It will help greatly to identify the trend in that stock and decision taking for entry/exit will be much easier like now we are doing for NF/BNF/FNF options. Kindly look on this and add this feature. \\nThankyou.\\nPS: Resending the idea which I have shared at student support portal on 03-Aug-2023\"}"
+    ],
+    [
+        1695194717,
+        "kadammadhav6@gmail.com",
+        "{\"name\": \"MADAV KADAM\", \"topic\": \"Trading Journal\", \"number\": \"8686182125\", \"feedback\": \"IF POSSIBLE MAKE TREDCODE TO PULL TRADES DATA DIRECTLY FROM DHAN TO MAINTAIN TRADING JOURNAL AND MUST HAVE POSSIBLITY TO POST COMMENTS AND MISTAKES IF ANY.\"}"
+    ],
+    [
+        1695188436,
+        "pakirachandan@gmail.com",
+        "{\"name\": \"Chandan Pakira\", \"topic\": \"Others\", \"number\": \"8670846261\", \"feedback\": \"There are lot of options in our favourite Tredcode, but what if there will be a \\\"Favourite\\\" option in the Menu Bar where TCI students can add there own Sections (i.e.- IB, PreMarket, Moneyflux Nifty, Moneyflux Banknifty).\\nI'm just sharing my thoughts with you.\\nThank you for helping us growing.\"}"
+    ],
+    [
+        1695187003,
+        "rjadhav74@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/775TD0UXZAF2.jpeg\", \"name\": \"Rajesh Laxman Jadhav\", \"topic\": \"Index Analysis\", \"number\": \"9881007137\", \"feedback\": \"I am TCI student.Not able to use.Please help\"}"
+    ],
+    [
+        1695186336,
+        "ramakanta.bhutia@gmail.com",
+        "{\"name\": \"Ramakanta Bhutia\", \"topic\": \"Others\", \"number\": \"9437503799\", \"feedback\": \"While clicking or money flux/intraday boost on the scrip the charts are not opening\\nonly loading page of dhan comes and then nothing. even you wait for half an hour no login interface comes\"}"
+    ],
+    [
+        1695185893,
+        "aleembistha545@gmail.com",
+        "{\"name\": \"Aleem Bistha\", \"topic\": \"Trading Journal\", \"number\": \"9966446677\", \"feedback\": \"Unable to Delete Trading Journal list.. As i have enterd wrong details and tried to edit it, Every time I edit, Its taking as new trade and Unable to delete those  trades.\"}"
+    ],
+    [
+        1695181612,
+        "mdttalesara1616@gmail.com",
+        "{\"name\": \"mudit talesara\", \"topic\": \"Others\", \"number\": \"8200158345\", \"feedback\": \"my tredcode takes a lot of time to load whereas evreyother thing works just fine please help\"}"
+    ],
+    [
+        1695180800,
+        "kashyap.dobariya4838@gmail.com",
+        "{\"name\": \"KASHYAP\", \"topic\": \"Market Depth\", \"number\": \"9662515195\", \"feedback\": \"GIVE HIGHLIGHT FEATURE WHICH COMMON IN IB AND HIGH POWER STOCK\"}"
+    ],
+    [
+        1695147727,
+        "deepvaishnav1@gmail.com",
+        "{\"name\": \"Pradeep Singh Vaishnav\", \"topic\": \"Others\", \"number\": \"8802220081\", \"feedback\": \"Dear team- One recommendation that I believe can help our trading community engage more productively is, if you can add a \\\"Comment Section\\\" where traders can comment/ask queries to fellow traders. \"}"
+    ],
+    [
+        1695101084,
+        "jain.piyush.96316@gmail.com",
+        "{\"name\": \"Piyush Jain \", \"topic\": \"Others\", \"number\": \"8923424525\", \"feedback\": \"Please also start mentioning, your partial exit , complete exit and sometime when you take entry at various levels, in the chart pic you send of your trades at the end of the day.\\nIt will be very helpful especially for beginners to understand more.\\nBecause many time we get the same stock in which you trade, but we end up exit early, by trailing SL to much aggressively.\\n\\nOr end up exit late by not trailing SL properly. My one such trade was CONCOR on 11 sept.\"}"
+    ],
+    [
+        1695100871,
+        "arshadsiddiqui7340@gmail.com",
+        "{\"name\": \"Arshad idiiqui\", \"topic\": \"Trading Journal\", \"number\": \"9716000353\", \"feedback\": \"Thanks a lot for giving us this amazing general platform\u2026 Plsss sir its a rqst plss add stoploss column nd risk reward pts in this.\"}"
+    ],
+    [
+        1695100307,
+        "jain.piyush.96316@gmail.com",
+        "{\"name\": \"Piyush Jain\", \"topic\": \"Trading Journal\", \"number\": \"8923424525\", \"feedback\": \"If possible please make update to specify multiple partial entries and exits, with the quantity .\"}"
+    ],
+    [
+        1695100203,
+        "gangisettysravan@gmail.com",
+        "{\"name\": \"Gangisetty Sravan Kumar\", \"topic\": \"Moneyflux\", \"number\": \"6303978409\", \"feedback\": \"If possible if a Stock is trending in Top 5 or 10 around Mid-Day of the Market in Moneyflux. It can be highlighted with some other color. So it will be helpful to check the stock.\"}"
+    ],
+    [
+        1695094801,
+        "taransingh664@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/GJ8XBAD1FE5Y.jpeg\", \"name\": \"tarandip singh\", \"topic\": \"Trading Journal\", \"number\": \"9083712345\", \"feedback\": \"wrong entry not del\"}"
+    ],
+    [
+        1695067857,
+        "surajkumar143a@gmail.com",
+        "{\"name\": \"suraj\", \"topic\": \"Moneyflux\", \"number\": \"9122008244\", \"feedback\": \"money flux main kya index analysis jaisa feature add kar sakte sir last 1 hour m money flux kya show kar raha tha ab kya kar raha hai\"}"
+    ],
+    [
+        1695048710,
+        "abhimanyukumar230@gmail.com",
+        "{\"name\": \"abhimanyu kumar\", \"topic\": \"Others\", \"number\": \"9570865296\", \"feedback\": \"trade code me option chain with iv bhi  hona chahiye & india vix ka chart & students ko paper treading k liye virtuzl currency. Pahle pre market me pre action diikhta tha ab nhi dikhta hai? \"}"
+    ],
+    [
+        1695037536,
+        "jdjosef7@gmail.com",
+        "{\"name\": \"Joseph deva \", \"topic\": \"Moneyflux\", \"number\": \"9176714461\", \"feedback\": \"Hi team. I really admire the effort you put in Tred code. I request a time-based adjustment in money-flux and market depth also same as index analysis, so that beginners like us can do back testing at EOD. \"}"
+    ],
+    [
+        1695036944,
+        "harshborsadiya1113@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/VDMEJK3TAWMH.png\", \"name\": \"Harsh borsadiya \", \"topic\": \"Others\", \"number\": \"9664646890\", \"feedback\": \"Hello sir\\nMene bhi m&m me trade liya tha but  me rule ko follow to karta hu lekin Swing low bada hota he to profit reduce ho jata he or loss me chala jata hu aab m&m me mene 1642 ka trail SL rakha to price 1670 se vapas aakar sl hit hogaya or sara profit reduce ho gaya aap tradecode pe exit ka bhi mark lagate jao to hame dekh kar galti pata chale or next time vo galti na kare vese aap ne kaha exit Kiya tha sir plz tell me\"}"
+    ],
+    [
+        1695031682,
+        "praveen.singh2009lpu@gmail.com",
+        "{\"name\": \"Praveen Singh\", \"topic\": \"Others\", \"number\": \"9898533802\", \"feedback\": \"\u0906\u092a \u091c\u094b \u0921\u0947\u0932\u0940 \u092a\u094d\u0930\u0949\u092b\u093f\u091f \u0915\u093e \u0932\u0949\u091c\u093f\u0915 \u0935\u0940\u0921\u093f\u092f\u094b \u0905\u092a\u0921\u0947\u091f \u0915\u0930\u0924\u0947 \u0939\u0948 \u0909\u0938\u0928\u0947 exit \u0915\u093e \u092d\u0940 \u0932\u0949\u091c\u093f\u0915 update \u0915\u0930\u093f\u090f sir \u092e\u0941\u091d\u0947 \u0914\u0930 \u091c\u093e\u092f\u0947\u0921\u093e clarity \u092e\u093f\u0932\u0947\u0917\u0940\"}"
+    ],
+    [
+        1695024507,
+        "praveen.singh2009lpu@gmail.com",
+        "{\"name\": \"Praveen Singh\", \"topic\": \"Others\", \"number\": \"9898533802\", \"feedback\": \"Hello sir I m tci student last 6 months \\nI follow good rules taught by u \\nBut I m little confuse when to booked profit that get Mack profit when my trade is good direction also u can share your exit plan also in message box of trade code for more clarity \"}"
+    ],
+    [
+        1695023905,
+        "abhijeetkhobragade512@gmail.com",
+        "{\"name\": \"Abhijit khobragade \", \"topic\": \"Trading Journal\", \"number\": \"8329589412\", \"feedback\": \"sir mistakenly I filled 2 time a trading journal with a same stock and now want to delete 1 journal from there but it can't be deleting something problem there on that section . \"}"
+    ],
+    [
+        1695020857,
+        "akashthakkannavar@gmail.com",
+        "{\"name\": \"Akash T\", \"topic\": \"Others\", \"number\": \"9611477420\", \"feedback\": \"Sir in tredcode message section now if we try to open the screenshorts it gets downloaded , first it use to open in a new tab by clicking on it that was awesome to use where we can see side by side to analyse but now it gets  downloaded and we need to open it in download section where we cannot see it side by side so please make it happen like before sir .\"}"
+    ],
+    [
+        1695013230,
+        "naykodishantanu007@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/8WS5M78OYJLT.jpeg\", \"name\": \"Shantanu Naykodi\", \"topic\": \"Moneyflux\", \"number\": \"8422996239\", \"feedback\": \"Sir her as u can see the picture from sectorial flow n money flux of fin nifty. Here in sectorial flow is difficult to pick bearis stock with high r factor n bullish stock with high r factor. Here is it possible to add all the sectors in Moneyflux cause Moneyflux is more convienent than sectorial flow. \"}"
+    ],
+    [
+        1695010302,
+        "rautdarshan67@gmail.com",
+        "{\"name\": \"Darshan Santosh Raut\", \"topic\": \"Others\", \"number\": \"9326699790\", \"feedback\": \"no stock is showing\"}"
+    ],
+    [
+        1695008135,
+        "shindeshrikant045@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/XME74T3ZMMWM.jpeg\", \"name\": \"Shrikant Shinde\", \"topic\": \"Trading Journal\", \"number\": \"9892001469\", \"feedback\": \"Trading Journal Ekdam Sahi Hai sir Sirf Brokerage Ka Column Add Kardo Usse Net Loss /Net Profit Show Hojayega\"}"
+    ],
+    [
+        1694962463,
+        "chinmay.chachda@gmail.com",
+        "{\"name\": \"Chinmay C\", \"topic\": \"Sectoral Flow\", \"number\": \"9561110897\", \"feedback\": \"it will better if we have Pictorial/Heat Map view as per sectorial wise\"}"
+    ],
+    [
+        1694961048,
+        "sagarsonicse2020@gmail.com",
+        "{\"name\": \"sagar\", \"topic\": \"Moneyflux\", \"number\": \"9981784499\", \"feedback\": \"hello sir you can also add NIFTY NEXT 50 Stock in Moneyflux section. which is also good like midcap moneyflux.\"}"
+    ],
+    [
+        1694957049,
+        "ajayhoc.khobragade@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/7N2D9F7QHX8D.jpeg\", \"name\": \"AJAY BALIRAM KHOBRAGADE\", \"topic\": \"Trading Journal\", \"number\": \"7387219575\", \"feedback\": \"SIR I HAVE UPLOADED THE PIC OF THE PAPER JOURNAL I KEEP, AS YOU CAN SEE I HAVE 2 ENTRIES AND PARTIAL BOOKING ACCORDING TO OUR SYSTEM.\\nI AM CONFUSED ABOUT HOW SHOULD I INPUT DATA IN THE TREDCODE JOURNAL , AS DATA ENTERED DOES NOT ACCOUNT FOR PARTIAL ENTRY AND PARTIAL EXITS HENCE P&L IS NOT ACCURATE.\"}"
+    ],
+    [
+        1694942674,
+        "apexcitys2@gmail.com",
+        "{\"name\": \"Sujal Sunil Gupta\", \"topic\": \"Trading Journal\", \"number\": \"9920736281\", \"feedback\": \"Sir you may even add number of winners and number of losers in trading journal statistics category\"}"
+    ],
+    [
+        1694873111,
+        "nm18ntpc@gmail.com",
+        "{\"name\": \"Narottam meena\", \"topic\": \"Trading Journal\", \"number\": \"9571818821\", \"feedback\": \"trading journal me multiple photo upload ho to better h, like index analysis ka screenshot with index chart and strike price ka chart.\"}"
+    ],
+    [
+        1694871538,
+        "rohankkothari50@gmail.com",
+        "{\"name\": \"Rohan Kothari\", \"topic\": \"Moneyflux\", \"number\": \"8097406366\", \"feedback\": \"As we can see there is a timeline from 9:15 to 3:30 in the Index analysis section right at the top. My suggestion would be to have a same timeline in the Moneyflux section which can help us in backtesting the trades. This would give a clear idea that which stock came in the heat map at what time exactly.\\n\\nAlso, one more thing, the Tredcode should have the data for at least a month back for backtesting the trades and strategies.\\n\\nThanks\\nRohan \"}"
+    ],
+    [
+        1694792338,
+        "vickydesh823@gmail.com",
+        "{\"name\": \"vicky deshmukh\", \"topic\": \"Moneyflux\", \"number\": \"9975919522\", \"feedback\": \"frist thing money flux ke chart ke upar me chart future ya spot ka he vo mention kiya jaye plzz? and money flux ke chart  me 5 min ka time frame add kijiye 5 min chart ka bhi  jada help hota he. or  chart par trendline draw karne ka pen ya tab  available ho to zone ya trend breakout mila he uska confirmation money flux chart par hum dekh sakte he . if possible plzzzz keep mentioned changes.  thank you team TCI\"}"
+    ],
+    [
+        1694792266,
+        "asanant18@gmail.com",
+        "{\"name\": \"Anant Sharma \", \"topic\": \"Index Analysis\", \"number\": \"9085289487\", \"feedback\": \"I absolutely love the fact that ,there is a place for us users to suggest features for tadecode ,so my only concern  is I have a difficulty in choosing strike price and sometimes to view the overall sentiments of the market ,therefore i recommend if the team can develop something similar to Trending Oi of Oi pulse . \"}"
+    ],
+    [
+        1694791296,
+        "praneswar043@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/8XF4BFJYQKQ7.png\", \"name\": \"praneswar meher \", \"topic\": \"Moneyflux\", \"number\": \"9777294225\", \"feedback\": \"sir can you remove the sentiment dial and pcr meter and large the size of money flux heat map\"}"
+    ],
+    [
+        1694789117,
+        "bandisudhakar2010@gmail.com",
+        "{\"name\": \"SUDHAKAR\", \"topic\": \"Pro Setups\", \"number\": \"9491565322\", \"feedback\": \"HOW OPEN THA LOCK ALL SEGMENTS\"}"
+    ],
+    [
+        1694774432,
+        "vig.0009@gmail.com",
+        "{\"name\": \"Vignesh\", \"topic\": \"Trading Journal\", \"number\": \"7708596170\", \"feedback\": \"I added my trade today, and it is not showing. I even got added successfully message on the screen while adding. \"}"
+    ],
+    [
+        1694774377,
+        "vig.0009@gmail.com",
+        "{\"name\": \"Vignesh\", \"topic\": \"Moneyflux\", \"number\": \"7708596170\", \"feedback\": \"Moneyflux and other tabs are not refreshing properly. If we move from Market depth to moneyflux, it is not showing anything. I need to reload the browser for the heatmap to appear. \"}"
+    ],
+    [
+        1694772996,
+        "siddarthkrupakar1@gmail.com",
+        "{\"name\": \"Siddarth Krupakar\", \"topic\": \"Trading Journal\", \"number\": \"9591500159\", \"feedback\": \"The Journal is not showing my entries. it just says successful and does not show anything\"}"
+    ],
+    [
+        1694768170,
+        "kachhiya69@gmail.com",
+        "{\"name\": \"Saurabh kachhiya \", \"topic\": \"Others\", \"number\": \"9737556648\", \"feedback\": \"\\nSir my suggestion is Pls plan for  whtapp  TCI community group.\\nWhere most active tci traders share their swing, intraday market related ideas.. Just chart sharing.\\nPeople like me who do job regularly didn't take trade in options segment..\\nSo in this group people share ideas like market Consolidation breakout with bulls bears strength etc. Etc.\\n\\nIt's just my suggestion.\\n\"}"
+    ],
+    [
+        1694768116,
+        "kachhiya69@gmail.com",
+        "{\"name\": \"Saurabh kachhiya \", \"topic\": \"Others\", \"number\": \"9737556648\", \"feedback\": \"Feedback - thank u so much for made this Trade code tool for intraday swing and options also for Trading journal.\\nI didn't not trade activitly in options but I attended chinmay sir option session 5-6 times.. Bcoz i just love chinmay sir technique for howw to see market structure.. \\nAlso prashant sir 4th module 5 pointer checklist.. \\n\"}"
+    ],
+    [
+        1694767682,
+        "mukesh.rajuram97@gmail.com",
+        "{\"name\": \"Mukesh\", \"topic\": \"Moneyflux\", \"number\": \"9738981426\", \"feedback\": \"I think the  money flux  chart time framework  must be 5 min wer we have option of 3mon 15 min and 30 min\"}"
+    ],
+    [
+        1694766502,
+        "jenil.mangukiya2004@gmail.com",
+        "{\"name\": \"Jenil\", \"topic\": \"Market Depth\", \"number\": \"9327707760\", \"feedback\": \"Sir market depth me prev close wali raw nikal ke ussme diffrence from high or long wali coulmn jo top level or low level me hoti he woh agar hojata he to ham higher high stocks ko achese pick kar sakte he\"}"
+    ],
+    [
+        1694764501,
+        "mohitkumar2812005@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/GZBYRJ2BMMP1.png\", \"name\": \"MOHIT \", \"topic\": \"Others\", \"number\": \"8852923924\", \"feedback\": \"SIR COMMUNITY ME ESA KUCH LAO JIS SE HUM ESE KISI KI POST PE JAKE USKE NAM PE CLICK KRKE CHAT KR SKE TAKI HUM EK DUSRE SE BHI SEEKH PAYE PLEASE SIR YE JRUR LAO\"}"
+    ],
+    [
+        1694757963,
+        "surajkumar143a@gmail.com",
+        "{\"name\": \"Suraj \", \"topic\": \"Others\", \"number\": \"9122008244\", \"feedback\": \"Sound disable ka feature dal do sir. Jb ek section se dusre section m move karte h tb\"}"
+    ],
+    [
+        1694757763,
+        "amangumwani70@gmail.com",
+        "{\"name\": \"Aman Gumwani\", \"topic\": \"Others\", \"number\": \"8516949494\", \"feedback\": \"Everything is top notch, \\nFrom prashant\u2019s sir teaching methods to paychology classes. \\nFrom traders community to support portal. \\nAnd tredcode is like it eases your work upto 70%,\\nAfter finding a stock from there you just have to follow price action and wait patiently for results.\\nSeriously loved every aspect of trading cafe india.\ud83d\udcaf\"}"
+    ],
+    [
+        1694757169,
+        "sharadp1111@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/58FBVUF26E6Q.jpeg\", \"name\": \"Sharad Ashok Parihar\", \"topic\": \"Market Depth\", \"number\": \"9356099850\", \"feedback\": \"i salect MICROPOLYCIS from market depth..  i got my SL, i just want to know  is my entry is right or wrong.\"}"
+    ],
+    [
+        1694755914,
+        "kjsuryanarayanan@gmail.com",
+        "{\"name\": \"Suryanarayanan\", \"topic\": \"Moneyflux\", \"number\": \"8144553443\", \"feedback\": \"TCI team doing the great service, first of all i have to say Thanks to you all, \\nMy suggestion, in the Money flux page, if we are seeing nifty in 30 min  when that time we change to other index means that timeframe come to 3min as default setting, for each index we should change the TF again to 30min.\\nIf that TF not change when we change the index means it will reduce the time to take decision in the intraday entries.\\nTHanks for undertanding. Once again thanks for your great work.\"}"
+    ],
+    [
+        1694755049,
+        "gangadharbh90@gmail.com",
+        "{\"name\": \"Gangadhara B H\", \"topic\": \"Moneyflux\", \"number\": \"8123948100\", \"feedback\": \"Hello sir, it is just an idea, \\ni am an working employee & i do not have multiple screens setup, I just have one laptop.\\nI prefer money flux(Which is great feature) to trade only stocks, some time it is difficult to switch between components like nifty, bank nifty & others... while doing this we miss few entries,\\nSo how about if we have one screen similar to money flux where we will be showing all these stocks which belongs to Nifty, Bank nifty, fin nifty small cap & sensex\\nHere no need to display strength, so that i will be just monitoring this one screen & i can find the stocks\\n\\nlot of retail traders will not have multiple screens \\n\"}"
+    ],
+    [
+        1694753094,
+        "rajdeepp38@gmail.com",
+        "{\"name\": \"rajdeep patel\", \"topic\": \"Others\", \"number\": \"9131406109\", \"feedback\": \"tradecode is not loading after logine faceing problem since last three days \"}"
+    ],
+    [
+        1694748504,
+        "shrikantgupta15@gmail.com",
+        "{\"name\": \"shrikant\", \"topic\": \"Others\", \"number\": \"9045802916\", \"feedback\": \"in tci community where people share their pnl and ideas, plz provide comment and chat section so that below every post people can chat and make the trading ideas more engaging.\"}"
+    ],
+    [
+        1694720432,
+        "jorichaitanya1@gmail.com",
+        "{\"name\": \"chaitanya jor\", \"topic\": \"Others\", \"number\": \"8007203587\", \"feedback\": \"can you make one section in tredcode where one  can get  stocks making price action of higher low and lower high on 1min ,5min tf .  so it will of easy for intraday stock selection with data confirmation of ib segment \"}"
+    ],
+    [
+        1694712596,
+        "miteshp35@gmail.com",
+        "{\"name\": \"Mitesh patel \", \"topic\": \"Moneyflux\", \"number\": \"9624565417\", \"feedback\": \"If possible can you please add CRUDEOIL and NATURALGAS in money flux ? Thanks \"}"
+    ],
+    [
+        1694708825,
+        "mohitkumar2812005@gmail.com",
+        "{\"name\": \"mohit\", \"topic\": \"Others\", \"number\": \"8852923924\", \"feedback\": \"sir can you do something so that we fellow tci traders can connect and learn from each other\"}"
+    ],
+    [
+        1694705984,
+        "nithin.salian@gmail.com",
+        "{\"name\": \"Nithin SAlian\", \"topic\": \"Trading Journal\", \"number\": \"9731014988\", \"feedback\": \"Unable to delete the trades once added.\"}"
+    ],
+    [
+        1694705829,
+        "ilyasbhagat210@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/Y1JKDZJN0F3E.jpeg\", \"name\": \"Ilyas Mohammedi Bhagat\", \"topic\": \"Moneyflux\", \"number\": \"8939399259\", \"feedback\": \"Hi sir, First off lots of Thank You to your team for creating such a useful tool. It's the beginning of my career and I can already feel such a strong impact of the tool my trading as a whole. My psychology has become better and I make more informed decission.\\n\\nSir, I've been facing some problems in TredCode recently since past few days and the same happened today as well. I've attached a Screenshot for your reference. It happens while trying to access MoneyFlux. The page just doesn't load and errors pop up. If you could look into the matter it would be appreciated.\\n\\nThanks & Regards.\"}"
+    ],
+    [
+        1694703940,
+        "abhijityamgekar@gmail.com",
+        "{\"name\": \"Abhijit Yamgekar\", \"topic\": \"Others\", \"number\": \"9860959517\", \"feedback\": \"Can you add all FnO OI.. where if we can find or choose from drop down same as we have for index so that we can have Stock options Data to trade \"}"
+    ],
+    [
+        1694694703,
+        "abdul091513@gmail.com",
+        "{\"name\": \"ABDUL SALAM SAIT\", \"topic\": \"Market Depth\", \"number\": \"9841600516\", \"feedback\": \"Hi Sir , i would like to share my idea about STOCK SCREENER . I would like to create a column for this chartink screener . I created this and used it before i join our TEAM . \\\" https://chartink.com/screener/volume-break-2025 \\\" This link is the page . Thank You\"}"
+    ],
+    [
+        1694689278,
+        "abhinavkumar16@gmail.com",
+        "{\"name\": \"ABhinav\", \"topic\": \"Trading Journal\", \"number\": \"8179461924\", \"feedback\": \"Add Trade Type Option here, so all can see performance based on Trade Type like ID or Swing.\\nThen add instrument like Options or Equity.\\n\\nThese two options will understand the results in a deeper way\"}"
+    ],
+    [
+        1694681661,
+        "mausamjain03@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/LHKY2Q5MRJJH.png\", \"name\": \"Mosam Jain\", \"topic\": \"Market Depth\", \"number\": \"7878972761\", \"feedback\": \"Hello sir, I have a small recommendation for Intraday boost segment, So sir as we know IB stocks represents in a list manner, but agar sir yeh Moneyflux jese Heatmap ke form me bhi represent hona start hojaaye toh it will be much better, reason being As such R-factor ke number ko dekh ke nhi pata chlta ki kitna agression hai usme, its like yeaa they are top rank stocks, but if Heatmap ke form me bhi aajaye toh ek clearlity milegi ki kitna agression carry kr raha hai as kitna Partition cover kr raha hai like shown in the attachment, and confulence bhi badhega right aggressive stock ko pick krne me and avoid bhi krna hai, so thats it, if it makes sense it would be lovely to see those updates, Thank you for having this kind of things. :)\"}"
+    ],
+    [
+        1694679880,
+        "sachindhatrak123@gmail.com",
+        "{\"name\": \"Sachin \", \"topic\": \"Others\", \"number\": \"9491345128\", \"feedback\": \"Algo trading bhi introduce kariye sir .kuch chance rahe to\"}"
+    ],
+    [
+        1694679501,
+        "alosttrader13102022@gmail.com",
+        "{\"name\": \"MANOJ NEGI\", \"topic\": \"Others\", \"number\": \"7891533935\", \"feedback\": \"MAIN TCI KO 2 YEAR SE FOLLOW KAR RAHA HUN AND MAINE APRIL MID ME AAPKA MENTORSHIP LIYA THA AUR ISSE BAHUT KUCH SIKHNE KO MILA.TRADING ME  BAHUT IMPROVEMENT BHI HUA.  AS A TCI STUDENT BAHUT LOGO KE INSTAGRAM PAR MSG AATE HAIN REVIEW KE LIYE AAP TCI STUDENT HAI KAISA HAI WAGAHR KYUKI MARKET ME BAHUT LOG GALAT MENTORS CHOOSE KARKE PAISE BARBAAD KAR DETE HAIN. AUR ABHI YE JO ITNEE FAMOUS TRADERS KE NAME SAAMNE AAYE HAIN SCAM ME TO AB LOG KISI PAR BHAROSHA NAHI KAR RAHE HAIN. MERA YE SUGGESTION HAI SIR INSTAGRAM PAR JO BHI P&L DAALTE HAIN AGAR WO WITH VERIFIED DAALE TO NAYE LOG JO TCI JOIN KARNA CHAHTE HAIN UNHE JAYDA BHAROSHA HOGA. THANKYOU\"}"
+    ],
+    [
+        1694677570,
+        "aleembistha545@gmail.com",
+        "{\"name\": \"ALEEM BISTHA\", \"topic\": \"Moneyflux\", \"number\": \"9966446677\", \"feedback\": \"Add some basic drawing tool to money flux\"}"
+    ],
+    [
+        1694677159,
+        "rameshkumawat97@gmail.com",
+        "{\"name\": \"RAMESH\", \"topic\": \"Moneyflux\", \"number\": \"9724697787\", \"feedback\": \"MONERYFLUX IN NUMBERLIC ERASE AND CHANGE OF INTRADAY EQUTY PERCENTGE \\nSO EASY BEFORE PLACE ORDER \"}"
+    ],
+    [
+        1694675140,
+        "mithunjn33@gmail.com",
+        "{\"name\": \"mithun jain\", \"topic\": \"Market Depth\", \"number\": \"9176158677\", \"feedback\": \"Many times when a particular stock moves up in the IB  it would be late to track how the moment of the stock or how fast its r factor is increasing due to which one will mis the entry into the stock, so you can include a extra column which will help use to know how much its R factor has increased or how much the stock has moved up or down compared to its previous position so that the user will know  the rate of change of R factor\"}"
+    ],
+    [
+        1694674866,
+        "ajaysasne7@gmail.com",
+        "{\"name\": \"Ajay Sasne\", \"topic\": \"Market Depth\", \"number\": \"9607302310\", \"feedback\": \"Add Open = High & Open = Low scanner\"}"
+    ],
+    [
+        1694672527,
+        "rishikesh.b38@gmail.com",
+        "{\"name\": \"rishikesh\", \"topic\": \"Trading Journal\", \"number\": \"9566010862\", \"feedback\": \"This is the best things you guys just launched \\nthank you tradecode. \"}"
+    ],
+    [
+        1694671207,
+        "infovishalchauhan@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/LH6IRYY0KL23.png\", \"name\": \"Vishal Chauhan\", \"topic\": \"Market Depth\", \"number\": \"9137240590\", \"feedback\": \"PreC yeh column ko aap remove kar sakte ho. yeh itna important nahi hai. isko koi dekta bhi nahi hoga. Aap survey kar sakte ho!!!!\"}"
+    ],
+    [
+        1694671193,
+        "suraj.sahani1@gmail.com",
+        "{\"name\": \"SURAJ SAHANI \", \"topic\": \"Others\", \"number\": \"9769189741\", \"feedback\": \"You can start something in commodity like crude natural gas and Silver it will be helpful for people who trade in evening \"}"
+    ],
+    [
+        1694669867,
+        "virajkrd668@gmail.com",
+        "{\"name\": \"Viraj Ukirde\", \"topic\": \"Index Analysis\", \"number\": \"9664341408\", \"feedback\": \"index analysis me Nifty me 1st 5 OTM and ATM strike or BN me 1st 7-8 ATM or OTM strike me jo changes hote hena number me uska bhi ek alag baar hona chaiye q ki  bar bar note down karna padta he book me manually for ex. 10 baje 46000CE pe 10000 contract khade he vahi 10.10 baje tak 10235 hogaye abhi isme 235 contract add huye toh aise NIFTy OR BN ke 1st 5 to 8 contract me je contract changes ho rahe unka data mil gaya na toh book me hume kitne comtract changfes ho rahe ye likhan nahi padega.\"}"
+    ],
+    [
+        1694664256,
+        "abbusuhail3@gmail.com",
+        "{\"name\": \"Abbu suhail \", \"topic\": \"Index Analysis\", \"number\": \"7411451740\", \"feedback\": \"Index analysis \"}"
+    ],
+    [
+        1694663077,
+        "tejeshwar923@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/V4ND03HE63S8.png\", \"name\": \"Tejeshwar\", \"topic\": \"Others\", \"number\": \"8210427759\", \"feedback\": \"a seperate video explaining this point\"}"
+    ],
+    [
+        1694662724,
+        "prasanna26695@gmail.com",
+        "{\"name\": \"Prasanna Venkatesh R\", \"topic\": \"Trading Journal\", \"number\": \"7373505905\", \"feedback\": \"When we enter in the Trading Journal, we can load the All journal by Default instead of selecting separately\"}"
+    ],
+    [
+        1694662632,
+        "prasanna26695@gmail.com",
+        "{\"name\": \"Prasanna Venkatesh R\", \"topic\": \"Trading Journal\", \"number\": \"7373505905\", \"feedback\": \"We can add 5 point checklist in the trading journal to help the trader to track the trade in the better way\"}"
+    ],
+    [
+        1694662626,
+        "karayatprabhakar@gmail.com",
+        "{\"name\": \"Prabhakar Singh Karayat\", \"topic\": \"Moneyflux\", \"number\": \"9968655766\", \"feedback\": \"Hi team, if we can include the timer option as well in money flux to see for a particular stock activity with respect to time. Like how it turning out to be dark green acc to time.\"}"
+    ],
+    [
+        1694662540,
+        "infovishalchauhan@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/6WBPNVAOQ8HH.png\", \"name\": \"Vishal Chauhan\", \"topic\": \"Market Depth\", \"number\": \"9137240590\", \"feedback\": \"HP & IB mein jo common stock hai usko high light kar sakte hai.\\nand agar koi stock IB mein aur top level or low level mein common stock hai usko bhi hum high light kar sakte hai.\\nisse hume easily pata chal jayega momentum wale stock jo highlighted hai and hume extra effort dalne ki jarurat nahi hogi \\ncommon stock find karne ki\"}"
+    ],
+    [
+        1694632985,
+        "prnikam81@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/Y6UP2TQWWWGK.jpeg\", \"name\": \"Prasad nikam\", \"topic\": \"Others\", \"number\": \"9870850950\", \"feedback\": \"Hii Prasad here I joined tci on 1st sept 23 I have been trading since 3 years and never found such stress free tool \u2764\ufe0f thank you for making this beautiful tool. i just want to suggest that can you add any category,function or just a pop which can tell us this stock was present in pre market and after that it is present in hp and IB and if the list gets on on like momentum spike top-level low level and so that we will be more confident in that stock (we are already confident) but it will give us more accuracy \\nEg on 13 sep glenmark Pharma was present in premarket then ib and sectorial flow as well as top level and it broke the top level imp resistance retested on same level and then moved but I dint know that it was present in top level as well so my idea is suppose we keep arrow on any perticular stock anywhere whether it be money flux sectorial flow or ib lom anything just a arrow no any click can it pop up a window which can tell us where all it is present and in ascending timing order if it is possible or its hurdle then no worries thank you \ud83d\ude4f\"}"
+    ],
+    [
+        1694630872,
+        "janagamsaikumar@gmail.com",
+        "{\"name\": \"Janagam saikumar\", \"topic\": \"Others\", \"number\": \"8179614989\", \"feedback\": \"Can you add switch to enable or disable dhan Integration for all the account which have access to dhan\"}"
+    ],
+    [
+        1694625765,
+        "sachins3012@gmail.com",
+        "{\"name\": \"Sachin shinde\", \"topic\": \"Trading Journal\", \"number\": \"9657460519\", \"feedback\": \"there is some laging problem in trading journal please solve this.\"}"
+    ],
+    [
+        1694624663,
+        "jayvir100@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/RZ0K3O0FGM1O.jpeg\", \"name\": \"Jayvirsinh Rathod\", \"topic\": \"Others\", \"number\": \"8758310692\", \"feedback\": \"sir, you can add here all index current strike price (NIFTY50, BANKNIFTY) this two already available but, the FINNIFTY. MIDCAPNIFTY & SENSEX current strike price we have to check other place. if you add it will help all trader. THANK YOU.\"}"
+    ],
+    [
+        1694616841,
+        "s.nitishbabu1998@gmail.com",
+        "{\"name\": \"Nitish Babu\", \"topic\": \"Trading Journal\", \"number\": \"7402299007\", \"feedback\": \"I used to have trading journal on my google sheet but I was only feeling comfortable doing on laptop which I used to do before sleeping due to office hours. Now with tredcode I am comfortable logging in my trades on my phone itself at office. Great initiative, much appreciated. \\n\\nOne small thing I would request is to add BankNifty and Nifty 50 in the ticker along with the multiple of lot size in the qty field.\\n\\nThanks.\"}"
+    ],
+    [
+        1694615368,
+        "lalitcmalviya@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/EY9749BSQZVL.png\", \"name\": \"Lalit Malviya\", \"topic\": \"Pro Setups\", \"number\": \"9860144124\", \"feedback\": \"Add Download option in Pre Market Data and swing Centre , To quick and fast data download and single click load  in trading view for analysis.\"}"
+    ],
+    [
+        1694613479,
+        "jainrahul2648@gmail.com",
+        "{\"name\": \"RAHUL\", \"topic\": \"Trading Journal\", \"number\": \"7208718704\", \"feedback\": \"DELETE OPTION IS NOT WORKING MY 12 SEP TRADE IS ENTERED 10 TIMES IAM NOT ABLE TO DELETE PLEASE RESOLVE\"}"
+    ],
+    [
+        1694607393,
+        "subodey4@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/HPEDG51Z2OSU.jpeg\", \"name\": \"SUBHAJIT DEY\", \"topic\": \"Trading Journal\", \"number\": \"9577420334\", \"feedback\": \"Sir, Add a Option when We Exit Half Quantity and Remaining half Will exit with TSL... So My point is that.. When we did like this.. Average Exit Price Will change, and exit price should be average exit price, So Calculate the PnL and All Risk Reward Basis on AVERAGE Exit Price..  This Option should be Optional.  in \\\"ADD TRADE\\\" feature.\ud83e\udd1d \ud83e\udd1d \ud83e\udd1c\ud83e\udd1b\"}"
+    ],
+    [
+        1694606137,
+        "abhijeetkhobragade512@gmail.com",
+        "{\"name\": \"Abhijit S khobragade \", \"topic\": \"Swing Centre\", \"number\": \"8329589412\", \"feedback\": \"Dear TCI ,  as you know our ultimate goal is become FINANCIAL FREEDOM  as well as TIME FREEDOM so why not develop a CUP strategy  scanner where all the CUP stocks can filtered out with our RELEVANT FACTOR .\\nIt will  help us to create wealth , by  doing swing trading we get time freedom too . THANK YOU SO MUCH DEAR TCI FOR EVERYTHING \"}"
+    ],
+    [
+        1694605408,
+        "vaibhavgambhire03@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/ODYIHXT0TQLF.png\", \"name\": \"Vaibhav Gambhire\", \"topic\": \"Index Analysis\", \"number\": \"8108526120\", \"feedback\": \"Kindly add a separate refresh button for all the indexes.\\nIf I am in Banknfty and I hit the Banknifty refresh button then tredcode must show the oi data of Banknifty from 9.20 to current time.\"}"
+    ],
+    [
+        1694600770,
+        "arunvpm14@gmail.com",
+        "{\"name\": \"Arun\", \"topic\": \"Trading Journal\", \"number\": \"7373208832\", \"feedback\": \"for first 2 days i can able to log in the trading journal, but yesterday and today am not able to log, after clicking submit. journal is not adding\"}"
+    ],
+    [
+        1694600132,
+        "anilbh7890@gmail.com",
+        "{\"name\": \"anil bhardwaj\", \"topic\": \"Others\", \"number\": \"7062540009\", \"feedback\": \"support portal par puche jane wale questions ko public kar diya jave , jisse sabhi ke doubts clear ho or tradings skills improve ho\"}"
+    ],
+    [
+        1694599196,
+        "pavankumar77795@gmail.com",
+        "{\"name\": \"pavan kumar\", \"topic\": \"Trading Journal\", \"number\": \"8074918190\", \"feedback\": \"unable to enter the trades in the journal and couldn't submit\"}"
+    ],
+    [
+        1694594732,
+        "shravansd8888@gmail.com",
+        "{\"name\": \"SHRAVAN \", \"topic\": \"Others\", \"number\": \"7249159322\", \"feedback\": \"PLEASE ADD VOICE RECORDING OPTION IN TICKET CENTER . AS IT WILL BE EASY FOR STUDENTS TO ASK QUESTIONS . STUDENTS CANT DESCRIBE THERE QUESTION IN WRITING\"}"
+    ],
+    [
+        1694592405,
+        "dharambir.redtray@gmail.com",
+        "{\"name\": \"Dharambir Kumar\", \"topic\": \"Others\", \"number\": \"9024352122\", \"feedback\": \"If possible please add Global market index as well\"}"
+    ],
+    [
+        1694591637,
+        "abhisonwane2365@gmail.com",
+        "{\"name\": \"Abhijeet sonwane\", \"topic\": \"Others\", \"number\": \"9665263798\", \"feedback\": \"Universal serch option for all stock\"}"
+    ],
+    [
+        1694589236,
+        "gandhimann264@gmail.com",
+        "{\"name\": \"Mann Gandhi\", \"topic\": \"Trading Journal\", \"number\": \"7567379210\", \"feedback\": \"Give option for multiple entry and multiple exit in single trade , and give option for multiple image attachment or pdf attachment. example Analysis for the tred is combination of multiple things, one for price action analysis, with that tredcode index analysis and moneyflux data analysis for options\"}"
+    ],
+    [
+        1694586097,
+        "shubonil1000rr@gmail.com",
+        "{\"name\": \"Shubonil Majumdar\", \"topic\": \"Trading Journal\", \"number\": \"9804944531\", \"feedback\": \"Unable to submit short trade in Trading journal\"}"
+    ],
+    [
+        1694584049,
+        "udaya.2207@gmail.com",
+        "{\"name\": \"E udaya kumar\", \"topic\": \"Trading Journal\", \"number\": \"9962772019\", \"feedback\": \"Hi Team, Today I started using trading Journey, It was a super initiative to keep our trading records. I have a small difficulty in keeping different exit price. Example: I took a stock at 100 and exited half quantity at 120 and half quantity at 130 how will I mark this in the Journal book? Thanks for asking ideas.\"}"
+    ],
+    [
+        1694583781,
+        "gagangadge54@gmail.com",
+        "{\"name\": \"Gagan Gadge\", \"topic\": \"Others\", \"number\": \"7000548394\", \"feedback\": \"Please provide one video for placing order by direct dhan chart & how to put SL and Target on live chart.   can we put target & SL on chart and leave it.\"}"
+    ],
+    [
+        1694582022,
+        "aaryanbajaj385@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/TAL93E27SIBC.png\", \"name\": \"Aaryan Bajaj\", \"topic\": \"Others\", \"number\": \"9821089067\", \"feedback\": \"Hello sir , \\n\\nSir i have observed that in F&O stocks , stocks which get in a small or short range (ex 0.5%)  in 5 min time frame and stays for the whole day or maximum time spent  . \\nA tool in trading view \\\"SESSION VOLUME PROFILE \\\" , If there is only a single or two dark bars present on the whole day , the stock on the next day or in two to three days  either show a good upside or downside . \\n\\nthe session volume profile conditons can be 50 as value area volume and 24 row size as for normal fixed volume as suggested by Chinmay sir for fixed volume profile . \\n\\nSir there can  be a section in the tredcode which could identify these stocks after market hours for the next day or sir at 3:15pm to 3:30 pm .\\n\\n\\nsir found this a recent example in lupin . \\n\\nAnother example sir , 16th august 2023 in ADANIPORTS \"}"
+    ],
+    [
+        1694578891,
+        "yusuffaquih@gmail.com",
+        "{\"name\": \"YUSUF FAQUIH\", \"topic\": \"Others\", \"number\": \"7383377599\", \"feedback\": \"IF WE CAN ADD A SEARCH BAR WHERE WE CAN SEARCH IN WHICH SECTIONS THIS STOCKS EXIST IN TREDCODE WHILE BEING IN ONE SECTION\"}"
+    ],
+    [
+        1694577572,
+        "jeevanbg7@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/MCQAI9O5HEFO.png\", \"name\": \"JEEVAN B G\", \"topic\": \"Others\", \"number\": \"7026266778\", \"feedback\": \"Sir can u make a section, where the stocks traded above R1 and below S1 with narrow cpr.....Because stocks with 2-3 days consolidation ,with R1 or S1 breakout will giva a good moves....\"}"
+    ],
+    [
+        1694577411,
+        "tejeshwar923@gmail.com",
+        "{\"name\": \"Tejeshwar\", \"topic\": \"Moneyflux\", \"number\": \"8210427759\", \"feedback\": \"money fluc heat map should tell no. of red and green boxes so we dont have to count manually\"}"
+    ],
+    [
+        1694576390,
+        "kamblerohit01121997@gmail.com",
+        "{\"name\": \"Rohit S Kamble\", \"topic\": \"Market Depth\", \"number\": \"7045836418\", \"feedback\": \"I  think it would be good if we could have one more section for ORB for stocks that are there in IB or Moneyflux or sectorial Flow\"}"
+    ],
+    [
+        1694576240,
+        "rakeshhd1998@gmail.com",
+        "{\"name\": \"rakesh\", \"topic\": \"Others\", \"number\": \"7026754451\", \"feedback\": \"we would be happy if we have option to reply in community those who shared daily trades or ideas and also if we share any setup in that setup it something wrong also there so this some other community member will help us on that trade\\n\"}"
+    ],
+    [
+        1694576234,
+        "jaydeep996@gmail.com",
+        "{\"name\": \"Jaydeep Achhipalia\", \"topic\": \"Moneyflux\", \"number\": \"9820209333\", \"feedback\": \"If there is a way to add values to the nifty, bn, mid cap, Sensex etc charts, please do so, it will be really helpful\"}"
+    ],
+    [
+        1694576228,
+        "shrikantgupta15@gmail.com",
+        "{\"name\": \"shrikant\", \"topic\": \"Others\", \"number\": \"9045802916\", \"feedback\": \"creating a WATCHLIST facility is to be provided where people can save their stocks where they are invested, and everyday that watchlist should work as moneyflux or ib section so that people who has invested in stocks, can trade intraday too in their invested stocks based on Rfactor.\\nmostly people invest in mid and smallcaps where good moves comes, if stock is liquid enough one can trade as per smartmoney flow that is Rfactor.\"}"
+    ],
+    [
+        1694574041,
+        "abcomputer29@gmail.com",
+        "{\"name\": \"AAKASH BAVISKAR\", \"topic\": \"Trading Journal\", \"number\": \"9420376924\", \"feedback\": \"OPTION SYMBOL NOT SHOW *BANKNIFTY *NIFTY\"}"
+    ],
+    [
+        1694573900,
+        "abcomputer29@gmail.com",
+        "{\"name\": \"AAKASH BAVISKAR\", \"topic\": \"Others\", \"number\": \"9420376924\", \"feedback\": \"SESSION NOTIFICATION ON WHATSAPP MASSAGE.\"}"
+    ],
+    [
+        1694572613,
+        "akshaymule94@gmail.com",
+        "{\"name\": \"BUG and new feature suggestion\", \"topic\": \"Trading Journal\", \"number\": \"8888265859\", \"feedback\": \"1. This morning I tried to open a trading journal to add trade but I don't know why I'm not able to view past trades and add new trades.\\n2. A suggestion if it would be possible to have a notification feature in trad code whenever stock occurs with a high R factor in intraday boost and high power in both sections or in money flux so if someone is focusing on the index from the morning and job person they'll also get to know what stock opportunity they have at that time. \"}"
+    ],
+    [
+        1694546683,
+        "venkatmanickam01@gmail.com",
+        "{\"name\": \"VENKAT RAMAN\", \"topic\": \"Others\", \"number\": \"9344959622\", \"feedback\": \"A small feed back from my side I don't know wether it can be implemented are not, to see volume buildup of stocks we are seeing other site, instead is there any possibility to make a seprate tab on tredcode?\"}"
+    ],
+    [
+        1694540964,
+        "pranavraut28@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/6QPCSURW8OW8.png\", \"name\": \"Pranav Laxmikant Raut\", \"topic\": \"Pro Setups\", \"number\": \"9096564781\", \"feedback\": \"The premarket section is one of the critical sections before market opening for gauging and scanning stocks that can lead to market momentum in day. I think it should not be placed in the corner of the website it should be in market depth next to the Intraday boost scanner. I think it should be placed most accessible place.\\nThank You.\\nPranav.\"}"
+    ],
+    [
+        1694539191,
+        "shrenikftbl4955@gmail.com",
+        "{\"name\": \"Shrenik Umarane\", \"topic\": \"Sectoral Flow\", \"number\": \"9860808120\", \"feedback\": \"There should be search tab on top in sectorial flow to find perticuler stock with R Factor... it will be easy to find R factor for any stcoks come on radar for intraday ... like some days back Sobha was having highest R Factor among all Reality sector but dident appear in any Tab. thats why just asking for the same... Thanx Team TCI\"}"
+    ],
+    [
+        1694538478,
+        "rushikesh.borole@gmail.com",
+        "{\"name\": \"Rushikesh Borole\", \"topic\": \"Others\", \"number\": \"7588648938\", \"feedback\": \"Please Provide 1 day offline workshop because we are family.\"}"
+    ],
+    [
+        1694538324,
+        "rushikesh.borole@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/RC6WUM2B3SZ3.png\", \"name\": \"Rushikesh Borole\", \"topic\": \"Market Depth\", \"number\": \"7588648938\", \"feedback\": \"Hello Sir\\nTredcode tool is very very useful. \\n*Request no. 1\\nIf stock is same in \\n1) High Power and Intraday Boost then show (same Orange color.)\\n2) High Power, Intraday Boost and Money Flux then show (same color.)\\n3) High Power, Intraday Boost and  Sectorial flow then show (same color.)\\netc.\\n\\n*Request no. 2\\nIf  Stock is not made HH or LL then stock show as strike through.\\n\\nOnce again thank you so much for Tredcode tool \\n\"}"
+    ],
+    [
+        1694535406,
+        "krsnafyers@gmail.com",
+        "{\"name\": \"vamsi krishna \", \"topic\": \"Trading Journal\", \"number\": \"9758118267\", \"feedback\": \"1. allow us to add index option details also in the trading journal \\n2. give a detailed analysis in chart pattern and in excel sheet format depending on the strategy/time/win rate/win size etc etc.\"}"
+    ],
+    [
+        1694535310,
+        "drchothani1981@gmail.com",
+        "{\"name\": \"kirti chothani YOUR STUDENT\", \"topic\": \"Pro Setups\", \"number\": \"9925419358\", \"feedback\": \"pls add here GAP UP OPEN STOCK/GAP DOWN STOCKS REAL TIME.\"}"
+    ],
+    [
+        1694534763,
+        "thigalepratham@gmail.com",
+        "{\"name\": \"Prathamesh Thigale\", \"topic\": \"Others\", \"number\": \"9730496459\", \"feedback\": \"I will suggest that like Trading Journal, TCI should introduce a Live price alerts for the stocks. Tradingview gives only 5 alerts for free version and dhan charts didn't give alerts option. So if TCI gives alerts feature then it will help traders to put alerts quickly and went to another stock to analyse. \"}"
+    ],
+    [
+        1694534279,
+        "mbhagatji@gmail.com",
+        "{\"name\": \"Madhavbhagatji \", \"topic\": \"Trading Journal\", \"number\": \"9727138847\", \"feedback\": \"Trading journal not updating \"}"
+    ],
+    [
+        1694528125,
+        "srahul4011@gmail.com",
+        "{\"name\": \"rahul\", \"topic\": \"Trading Journal\", \"number\": \"8328400164\", \"feedback\": \"hi team, \\nsometimes it is not opening even when the range is selected to all dates\"}"
+    ],
+    [
+        1694526641,
+        "yuvrajmahajan109@gmail.com",
+        "{\"name\": \"Yuvraj\", \"topic\": \"Trading Journal\", \"number\": \"8988429026\", \"feedback\": \"I cant add anything in journal \"}"
+    ],
+    [
+        1694526271,
+        "sagarsonicse2020@gmail.com",
+        "{\"name\": \"sagar\", \"topic\": \"Moneyflux\", \"number\": \"9981784499\", \"feedback\": \"sir i have 2 3 feedback. \\n\\n1) sir money flux me sensex wale section ki jagah aap nifty 500 stocks ko scan kr skte hai, kyoki sensex wale stocks already nifty50 wale moneyflux me aa jate hai mene dekha almost same stocks hote hai and midcap was AWESOME thanks for it.\\n\\n2) aap ek section or bana skte hai jaha par wo stocks aaye jo multiple sections me aa rhe hai like jo money flux me top par hai, IB me bhi hai, HP me bhi hai and also have good R Fact in sectorial flow jisse ek jagah vo stocks mil jayenge jinki probablity jyada hogi.\\n\\n3) Sectorial flow me aap add kar skte hai deep sector ko like chemical based stocks ka sector, defence ka sector and so on jisse jyada deep knowledge milne lgega.\\n\\n4) MOST AWAITED ek video student portal me daal do jisme aapki screen record ho morning 9 to 11 like HOW YOU APPROCH THE MARKET like aap kya kya dekh rhe ho 50k risk per trade dalne se phle vo kya edge hai jo aapko best banata hai, HOW YOU PICK 2 Best Stocks from 200 stocks. aapka iska vote kr lo aap 100% log isko yes karenge.\\n\\n5) support portal me thoda acche se doubt clear kiya ja sake, i know bhut sare Doubt aate hai and aap bhut acche se sabko samjha sko ye b possible nhi hai and i know aap aapka best de rhe ho lekin bas agr thoda sa update kr sako is chiz ko then ok rest bdia hai koi isssue ni hai.\\n\\nAND THANKYOU SO MUCH FOR ALL YOUR UPDATE AND YOUR SOPPORT. \"}"
+    ],
+    [
+        1694517889,
+        "jayrajwadkar4@gmail.com",
+        "{\"name\": \"JAYRAJ WADKAR\", \"topic\": \"Others\", \"number\": \"9594623490\", \"feedback\": \"CAN WE ADD ONE SECTION  FOR FEW COMMEN STOCK WHICH SAME AS IN  - IB, HB, MFLEX FOR BETTER STOCK SELECTION  \"}"
+    ],
+    [
+        1694516446,
+        "pratik3170@gmail.com",
+        "{\"name\": \"Prateek Pandeyy\", \"topic\": \"Others\", \"number\": \"7066010876\", \"feedback\": \"Some scrips chart do not open directly on dhan when opened from TREDCODE like L&TFH, NAUKRI, SRTRANSFIN\"}"
+    ],
+    [
+        1694516336,
+        "gangisettysravan@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/EW871JV1O4I6.jpeg\", \"name\": \"Sravan Gangisetty \", \"topic\": \"Others\", \"number\": \"6303978409\", \"feedback\": \"Hii , I am a software professional doing trading , doing intraday is some difficult so doing swing currently . The scanner page is not upto date everytime I try not able to find latest data so please include the scanner page somewhere in tredcode so that every day when tredcode refreshes we get the up-to-date data.\"}"
+    ],
+    [
+        1694513986,
+        "pratikpawale@gmail.com",
+        "{\"name\": \"PRATIK PAWALE\", \"topic\": \"Trading Journal\", \"number\": \"8600240179\", \"feedback\": \"1ST OF ALL THANKS FOR CREATING THIS TRADING JOURNAL FEATURE, ITS SIMPLY AMAZING.. KUDOS TO TCI.\\n\\nJUST WANTED TO GIVE ONE SUGGESTION, IF POSSIBLE, TRADING JOURNAL SHOULD HAVE DAILY EXPENSE SECTION TO ENTER MANUALLY, FOR EACH TRADE SUCH AS BROKERAGE/TAXES ETC.. SO THAT, IT CAN HELP TO NEW TRADERS LIKE ME TO AVOID OVER TRADING BY SEEING OVERALL CHARGES TO P/L RATIO WEEKLY/MONTHLY ETC.. \\n\\nALSO, IT WILL BE BETTER IF TRADER CAN FILL CAPITAL USED PER TRADE, THEN IT WILL BE EASY TO CALCULATE ROI AGAINST TRADES\"}"
+    ],
+    [
+        1694513613,
+        "vineshbardoliya@gmail.com",
+        "{\"name\": \"Vinesh\", \"topic\": \"Trading Journal\", \"number\": \"9016231232\", \"feedback\": \"Submit nahi ho raha hai\"}"
+    ],
+    [
+        1694513419,
+        "babluprajapati37@gmail.com",
+        "{\"name\": \"Bablu Prajapati\", \"topic\": \"Trading Journal\", \"number\": \"9762939164\", \"feedback\": \"journal should be shown by default, we should not require to put date and open journal, whoever prefer to open just by date they should just get the data of that period or else it should be open by default full data\"}"
+    ],
+    [
+        1694512060,
+        "sharmahitzz@gmail.com",
+        "{\"name\": \"Hitesh Patel\", \"topic\": \"Moneyflux\", \"number\": \"8878702223\", \"feedback\": \"Heatmap for all F&O stocks in Money flux \\nAfter moneyflux stock selection has improved alot\"}"
+    ],
+    [
+        1694511857,
+        "drjaltareortho@gmail.com",
+        "{\"name\": \"Pratik Jaltare\", \"topic\": \"Trading Journal\", \"number\": \"7276139962\", \"feedback\": \"Can you please make provision for recording multi leg Strategies. That will be very helpful\"}"
+    ],
+    [
+        1694511686,
+        "jadhavsuhas36@gmail.com",
+        "{\"name\": \"Suhas Jadhav\", \"topic\": \"Trading Journal\", \"number\": \"9923963809\", \"feedback\": \"Unable to add an entry.  The submit button not working.\"}"
+    ],
+    [
+        1694511430,
+        "saifzuberi.dmc.bbd@gmail.com",
+        "{\"name\": \"Saif Zuberi\", \"topic\": \"Others\", \"number\": \"7275055554\", \"feedback\": \"open offline centers in multiple cities just to make sure Quality reaches mass... Start with Lucknow.. Always here to help... thank you\"}"
+    ],
+    [
+        1694509971,
+        "ayushrn1198@gmail.com",
+        "{\"name\": \"Ayush sharma\", \"topic\": \"Market Depth\", \"number\": \"8005718029\", \"feedback\": \"sometimes stocks gave mumentum already and it appears late on tredcode\"}"
+    ],
+    [
+        1694508997,
+        "gopakumartp001@gmail.com",
+        "{\"name\": \"Gopakumar TP\", \"topic\": \"Market Depth\", \"number\": \"7560852872\", \"feedback\": \"Option to select the Nifty 50/ Bank Nifty/ Fin Nifty/ Nifty Midcap 50 stocks which is a part of F&O stocks with the help of a dropdown list in the Intraday Boost sector will be really helpful. (Eg: Dropdown list given in Premarket) because I am taking trades mostly in Money Flux Nifty Midcap 50 stocks which appeared in IB with high R-Factor\"}"
+    ],
+    [
+        1694507796,
+        "rakeshpansuriya.h@gmail.com",
+        "{\"name\": \"rakesh\", \"topic\": \"Others\", \"number\": \"9998077783\", \"feedback\": \"we need to add one favorite tab I need to trade in stock only so I can add intraday boost and money fulx in one page so I can pic  stock  easily and watch on one page not go to another page and check  \"}"
+    ],
+    [
+        1694507447,
+        "sagarraghunathmhaske@gmail.com",
+        "{\"name\": \"Sagar Mhaske\", \"topic\": \"Moneyflux\", \"number\": \"7020234683\", \"feedback\": \"By adding all HeatMap of moneyflux in a SINGLE FRAME to miniminze the time of Searching  stock in marning. This can improve the sock picking much well\"}"
+    ],
+    [
+        1694507221,
+        "prashanthkumarbangaram7889@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/W66TUY6YYOTQ.png\", \"name\": \"k prashanth\", \"topic\": \"Moneyflux\", \"number\": \"6302186834\", \"feedback\": \"it was making the problem\"}"
+    ],
+    [
+        1694505049,
+        "veeresh775dolak@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/UJC413VVOBHO.png\", \"name\": \"veeresh dolak\", \"topic\": \"Market Depth\", \"number\": \"8123271830\", \"feedback\": \"hello sir..IB is most imp segment of tredcode..what my suggestion is during morning hour trading we check all the stocks in IB as per PA.. we dint find any good setup or we may miss entry..after that we think we searched IB and all of sudden one stock appears in IB after few minutes when stock pickups momentum.. we miss this kind of stocks to look there chart..so if we have small check or round tick type button on IB stocks..at one glance we get the stock which we have missed to look at chart..thank you\"}"
+    ],
+    [
+        1694504921,
+        "adityatiwari.nitjsr@gmail.com",
+        "{\"name\": \"ADITYA\", \"topic\": \"Index Analysis\", \"number\": \"9110120481\", \"feedback\": \"NOW WE HAVE TO ANALYSE WHETHER THE DATA OF OI IS INC OR DEC BUT IF THE DIFF OF OI DATA OF PE AND CE IS PROVIDED ON GRAPH THEN IT CAN BE EXTREMELY BENEFICIAL . PCR CHANGE BASICALLY IS WHAT I AM TALKING ABOUT . NOW THE INDEX OI DATA GIVES DATA BASED ON A PARTICULAR TIME FRAME BUT THE DIFFERENCE OF PCR IS NOT PROVIDED \"}"
+    ],
+    [
+        1694504858,
+        "rajeshmanganakar@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/WEF91430VTAU.png\", \"name\": \"RAJESH MANGANAKAR\", \"topic\": \"Sectoral Flow\", \"number\": \"9739540577\", \"feedback\": \"NIFTY 50 HUGE GAP UP N GIVEN DOWNSIDE SIGNAL(ORB BD) AT THAT TIME FIN SECTORS MAX STOCKS SHOWING NEGTIVE SO I PICKED M&M FIN (SET UP ALSO GOOD)\"}"
+    ],
+    [
+        1694504492,
+        "anand.devkar51@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/61Y5VZFAHXX7.png\", \"name\": \"ANAND\", \"topic\": \"Trading Journal\", \"number\": \"9975355371\", \"feedback\": \"When we upload chart screenshot in Journal, it should be show when we review to\"}"
+    ],
+    [
+        1694502719,
+        "srkjamadar@gmail.com",
+        "{\"name\": \"Shahrukh Jamadar\", \"topic\": \"Others\", \"number\": \"7709807342\", \"feedback\": \"Priy Chinmay sir,\\n         Aap jo Instagram pe reels banate he wo humare liye bahut help karte he, par aap pura english me banate he isliye wo samaj me nhi aata isliye me aapse vinati karta hu ke wo reels hindi me banaya karo taki hume samjane me aasani ho sake.\"}"
+    ],
+    [
+        1694500837,
+        "kaustubh9394@gmail.com",
+        "{\"name\": \"Kaustubh Banait\", \"topic\": \"Market Depth\", \"number\": \"9920344962\", \"feedback\": \"The high powered stocks and IB section works flawlessly. But the entire process can be made less manual\\nI have 3 suggestions for the same :-\\n\\n1) Create a 3rd Section/New Column above HP + IB columns, in that show stocks which are common in both\\n2) If new stocks come in this column or the IB column, there should be SOME form of alert which can be displayed saying \\\"XYZ\\\" stock came in Intraday Boost at so-so time \\n3) PLEASE try and make a downloadable CSV/Excel list of the above mix of stocks from HP + IB, so that if somebody wants to export it to tradingview, they can do so. I trade based on alerts every single day, which is not possible using Dhan UI\\n\\nI\"}"
+    ],
+    [
+        1694500826,
+        "jayeshmsd07@gmail.com",
+        "{\"link\": \"https://trjournal-test.s3.amazonaws.com/Feedback/7GVKK2KVWNRR.png\", \"name\": \"Jayesh Devkule\", \"topic\": \"Moneyflux\", \"number\": \"8698153522\", \"feedback\": \"Sir, You can add a Dynamic Heatmap in Tredcode which will show all the F&O stocks(I guess 180-200 stocks). so we will get to know the overall scenario and also it will be easy to select the stocks which are going up or down. I know we have a heat map of nifty,banknifty etc. but if you add a Heatmap which contains all the stocks then it might be helpful for everyone. A Suggestion from my side. Thanks  \"}"
+    ],
+    [
+        1694500787,
+        "kshitij.sharma1890@gmail.com",
+        "{\"name\": \"Kshitij Sharma \", \"topic\": \"Others\", \"number\": \"7690009101\", \"feedback\": \"It is better to have a setting for switching off dhan chart open on clicking any stocks because it happens so many times while scrolling tredcode stock get clicked and it redirect us to dhan sometime I don't want to open dhan fcharta from tredcode it's a good feature I am expecting it's ok if this thing take time I understand what you guys are doing in terms of improving this tool and our life that's much appreciated. Thanks \ud83d\ude0a\"}"
+    ],
+    [
+        1694500205,
+        "shans08807@gmail.com",
+        "{\"name\": \"Prashant Sahu\", \"topic\": \"Index Analysis\", \"number\": \"7217648664\", \"feedback\": \"Please add long build up/short build up live 5 mins of all future stocks including Index.\"}"
+    ],
+    [
+        1694498454,
+        "janagamsaikumar@gmail.com",
+        "{\"name\": \"Janagam saikumar\", \"topic\": \"Others\", \"number\": \"+91 8179614989\", \"feedback\": \"I'm thinking if you can add subsection of sectorial flow like under nifty energy there are different components manufacturers like battery stocks,cables stocks also example like sugar stocks some thing like that\"}"
+    ],
+    [
+        1694498366,
+        "swapn1207@gmail.com",
+        "{\"name\": \"Swapnil Gaikwad\", \"topic\": \"Others\", \"number\": \"+91 8208552001\", \"feedback\": \"Hello sir....\\nAapko ek algo trading strategy Banani chahiye sir...aapke pass resources he aapke pass achha team he....aapko algo trading ke bare me kuch sochna chahiye sir.... Please sir...sochiyega jaroor...\"}"
+    ],
+    [
+        1694498304,
+        "dknaix@gmail.com",
+        "{\"name\": \"This is new form\", \"topic\": \"Sectoral Flow\", \"number\": \"915488545454545\", \"feedback\": \"ayg ajkbn an sdnfn lsdf sg\"}"
+    ],
+    [
+        1694497813,
+        "rohitpoddar96.rp.rp@gmail.com",
+        "{\"name\": \"Rohit Poddar\", \"topic\": \"Others\", \"number\": \"+91 7908150754\", \"feedback\": \"Based on Kulneet sirs concept of momentum if we can have a separate tab like IB and High Powered stocks where the momentum stocks will be identified for intraday and tagged under it that can be game changer.\"}"
+    ],
+    [
+        1694497566,
+        "rohitpoddar96.rp.rp@gmail.com",
+        "{\"name\": \"Rohit Poddar\", \"topic\": \"Others\", \"number\": \"+91 7908150754\", \"feedback\": \"Firstly thanks for all the help you have provided. \\n\\nPlease bring algos for both stock as well as options. For us office goers it will be the biggest gift.\\nMe and my friends were discussing the same last day and we are eagerly waiting for your algos as you are the only one we trust completely. Even ready to pay as well but please bring..\\n\\nLots of love to TCI.\"}"
+    ],
+    [
+        1694495078,
+        "dknaix@gmail.com",
+        "{\"name\": \"This is a feedback\", \"topic\": \"Sectoral Flow\", \"number\": \"+213 989898989898989\", \"feedback\": \"this ios a feedbackadf ak  a jfbss  uab ajsh jash ashfh a ahsf jafks\"}"
+    ],
+    [
+        1694434504,
+        "dknaix@gmail.com",
+        "{\"name\": \"Testa\", \"topic\": \"Sectoral Flow\", \"number\": \"+355 965959659\", \"feedback\": \"asjf ishfn s\"}"
+    ]
+]

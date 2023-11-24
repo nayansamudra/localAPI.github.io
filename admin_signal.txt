@@ -1,0 +1,902 @@
+[
+    [
+        "1700561985.71624",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/419ZU2U7JYTP.png",
+        "<p>Today's Trade - COALINDIA</p>"
+    ],
+    [
+        "1700476756.33464",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/AH2KQI4FJ14I.png",
+        ""
+    ],
+    [
+        "1700476748.12898",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/X1WB7QVQ1376.png",
+        ""
+    ],
+    [
+        "1700476740.67758",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/M91GESOFHQTD.png",
+        "<p>Today's Trades - DIVISLAB, BIOCON &amp; EXIDEIND</p>"
+    ],
+    [
+        "1700454900.96311",
+        "vasoyaaakash@gmail.com",
+        "",
+        "<p>There was a problem in the morning in Tredcode.<br>It has been fixed.<br>Kindly refresh Tredcode once to see the latest data.</p>"
+    ],
+    [
+        "1700217775.84051",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/8TG84UB1P8AI.png",
+        ""
+    ],
+    [
+        "1700217770.11445",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/WBRMOJ4L7JJ5.png",
+        ""
+    ],
+    [
+        "1700217758.41913",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/WIH4X4CMVWGR.png",
+        "<p>Today's Trades - PIDILITIND. INDIGO &amp; ICICIBANK</p>"
+    ],
+    [
+        "1700130628.76945",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/X1U2IVCG21WC.png",
+        ""
+    ],
+    [
+        "1700130623.21977",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/BP4ZQUOPVUXY.png",
+        "<p>Today's Trades - CHAMBLFERT &amp; NTPC</p>"
+    ],
+    [
+        "1700045535.4645",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/KTC5MPSNI8KV.png",
+        ""
+    ],
+    [
+        "1700045529.36831",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/CF57T4SWOL13.png",
+        "<p>Today's Trades - EICHERMOT &amp; JSWSTEEL</p>"
+    ],
+    [
+        "1699872378.27382",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/N8ZMU92MY6I2.png",
+        ""
+    ],
+    [
+        "1699872373.93601",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/3NXM6HPC5YKV.png",
+        ""
+    ],
+    [
+        "1699872368.09273",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/XG7J5SKARDWC.png",
+        "<p>Today's Trades - COALINDIA, HINDCOPPER &amp; AUBANK</p>"
+    ],
+    [
+        "1699619178.55212",
+        "vasoyaaakash@gmail.com",
+        "",
+        "<p>Tredcode will not present data for the Sunday ( Muhurat trading.)</p><p>So kindly take note of it.<br>&nbsp;</p>"
+    ],
+    [
+        "1699613176.99793",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/YLA3WDUHWOR9.png",
+        ""
+    ],
+    [
+        "1699613169.36881",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/3P974SLJ2PY2.png",
+        "<p>Today's Trades - PEL &amp; HDFCLIFE</p>"
+    ],
+    [
+        "1699608600.48138",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/RYG9YNAW73VX.png",
+        "<p>now with rolling up. bought pe and rolling down bought Ce this case study fly is reisk free on down side and small risk on up side</p>"
+    ],
+    [
+        "1699608440.4696",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>in fly studies those who havent done any changes so far with 43700 level, here good move will be comiing closer from both the side to protect the gains, and reduce losses from both the sides</p>"
+    ],
+    [
+        "1699526429.84715",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/48AX9SRDHAHC.png",
+        ""
+    ],
+    [
+        "1699526425.31685",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/7U4E761WR5EN.png",
+        ""
+    ],
+    [
+        "1699526420.89512",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/FFS1L9NNTEAN.png",
+        "<p>Today's Trades - PFC, AUBANK &amp; GODREJPROP</p>"
+    ],
+    [
+        "1699523134.83775",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>yesterdays BN fly case study is showing market around 43700 zone only so ideal thing is coming close 200 points from each side to reduce losses from both the sides&nbsp;</p>"
+    ],
+    [
+        "1699436854.92222",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/WJE3PLY9MRMI.png",
+        ""
+    ],
+    [
+        "1699436691.44746",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>guys lets understand this case study of iron fly using bn as base index, at moment market is near 43700 so making straddle at 43700 and hedging it can create on e fly here&nbsp;</p>"
+    ],
+    [
+        "1699353829.63726",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/MNAA1Y2YP2SA.png",
+        ""
+    ],
+    [
+        "1699353823.75946",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/C1ND240Y9ZJ6.png",
+        "<p>Today's Trades - SUNPHARMA &amp; KOTAK BANK</p>"
+    ],
+    [
+        "1699343773.38767",
+        "sgole977@gmail.com",
+        "",
+        "<p>Any quest related to volume profile or poc will be addressed in sessions purely for TCI students, we will not address them on live stream so do not worry traders</p>"
+    ],
+    [
+        "1699267054.90781",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/3NEUX5ESIE93.png",
+        ""
+    ],
+    [
+        "1699267050.29715",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/837MOBTJ7L2N.png",
+        "<p>Today's Trades - EICHERMOTOR &amp; AARTIIND</p>"
+    ],
+    [
+        "1699009196.83205",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/D8BZ764A25EE.png",
+        ""
+    ],
+    [
+        "1699009192.27452",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/4O63WQJBUHXU.png",
+        ""
+    ],
+    [
+        "1699009187.65843",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/Y023OI7V3BZ5.png",
+        "<p>Today's Trades - UPL, SHRIRAMFIN &amp; APOLLOHOSP</p>"
+    ],
+    [
+        "1699005258.41966",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>in NIFTY fly case study roll up PE 100 is ideal thing as market sustained 100 points up</p>"
+    ],
+    [
+        "1698920444.40882",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/CTQT0PNA7HEB.png",
+        "<p>Today's Trades - INDUSINDBK</p>"
+    ],
+    [
+        "1698919142.27391",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/K39EKD9TIQ4H.png",
+        "<p>this is study case for entire week going ahead</p>"
+    ],
+    [
+        "1698919076.03891",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>nifty case study fly can be made with keeping 19150 straddle in place</p><p>&nbsp;</p>"
+    ],
+    [
+        "1698917420.80901",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/22TCUJWA5BUJ.png",
+        ""
+    ],
+    [
+        "1698917414.33451",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>as explained on live stream did some changes in our bn fly case study to make it fully risk free with rolling down CE</p>"
+    ],
+    [
+        "1698908336.5984",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p><a href=\"https://youtube.com/live/TvjGbcVbM8o \">https://youtube.com/live/TvjGbcVbM8o&nbsp;</a></p><p>&nbsp;</p><p>Hello traders, Chinmay here, Im starting Live stream for students only, sharing link to join, will start in 5 min lets understand fly adjustments in ENGLISH</p>"
+    ],
+    [
+        "1698906399.52498",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/BI4UEQUCAJOZ.png",
+        ""
+    ],
+    [
+        "1698906237.60995",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/6E5FP5W2H1Q9.png",
+        "<p>when fly turns positive for making it risk free rolling CE will be ideal thing</p>"
+    ],
+    [
+        "1698898977.03823",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>now if sustains above days high, intraday long debit spread can be taken with intraday swing low as a sl</p>"
+    ],
+    [
+        "1698898908.04475",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/AV88DB53NHK9.png",
+        "<p>with this down side of this fly is totally risk free</p>"
+    ],
+    [
+        "1698898773.49006",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>first now as market in one way moved up almost 500 points, ideal thing to do is, roll up PE 500 points&nbsp;</p>"
+    ],
+    [
+        "1698898704.78869",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/FM1XO0G6K455.png",
+        "<p>if yesterday after 3pm one would have made fly this must be the current scenario, keeping 42700 as sell straddle in fly. now lets understand what adjustments needs to be done in this case study</p>"
+    ],
+    [
+        "1698835088.81123",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/FSXJUKV8NL0E.png",
+        "<p>Today's Trade - BPCL</p>"
+    ],
+    [
+        "1698832742.20411",
+        "vasoyaaakash@gmail.com",
+        "",
+        "<p>Thank you all.<br>Will do another stream tomorrow.<br><br>Will update in morning&nbsp;</p>"
+    ],
+    [
+        "1698831011.22091",
+        "vasoyaaakash@gmail.com",
+        "",
+        "<p>This is in hindi<br>will do english stream tomorrow&nbsp;</p><p>&nbsp;</p>"
+    ],
+    [
+        "1698829694.93425",
+        "vasoyaaakash@gmail.com",
+        "",
+        "<p><a href=\"https://youtube.com/live/9HNv5Y2FlZc\">https://youtube.com/live/9HNv5Y2FlZc</a></p><p><br>Chinmay sir is live on youtube</p><p>We are just testing<br>any feedback from you all is highly appreciated</p>"
+    ],
+    [
+        "1698750480.45807",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/79OZ00L7N85E.png",
+        ""
+    ],
+    [
+        "1698750474.97295",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/WJTC7KIRFJLM.png",
+        "<p>Today's Trades - SUNPHARMA &amp; ONGC</p>"
+    ],
+    [
+        "1698744995.49369",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/IM9ZTI0D2HSV.png",
+        "<p>we are seeing some small profits here in this case study fly, now those who wants to carry this fly for next day, should bring bought CE further down, gained profits can be locked&nbsp;</p>"
+    ],
+    [
+        "1698742947.47687",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/3JQHYZR430EV.png",
+        "<p>there was no chance to trade in PIDILITE overnight but see how beautifully it respected volume profile with current accumulation and previous distribution&nbsp;</p>"
+    ],
+    [
+        "1698660064.40938",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>today I have roll down 300 points near 42600 CE after BN morning 400 point down move, and when Bn on spot broke yesterdays high added one long debit spread of 42800ce long and short 43100 ce which I closed now as it was for only intraday</p>"
+    ],
+    [
+        "1698659883.71938",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/GHUH8OYZ60E0.png",
+        ""
+    ],
+    [
+        "1698659706.00503",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>closing intraday long debit spread here as in this case study we don't keep any debit spreads positionally&nbsp;</p>"
+    ],
+    [
+        "1698648421.57453",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>start using volume profile regularly to get idea about serious money engagement on key levels</p>"
+    ],
+    [
+        "1698648376.10453",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/1R6IIW25SRTM.jpeg",
+        ""
+    ],
+    [
+        "1698648200.06098",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/WW1A4YSK8LAG.jpeg",
+        ""
+    ],
+    [
+        "1698648004.80722",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>when you think right time to short BN just take confirmation using price action and volumes you will clearly see, there was no good RR present after shorting bn here</p>"
+    ],
+    [
+        "1698647919.13137",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/UI04M74W63SS.jpeg",
+        ""
+    ],
+    [
+        "1698647593.27216",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>in such reversal days if we roll down CE our fly becomes much safer, and now as market is near upside breakeven, here to protect up side move, ideally we should add one long debit spread</p><p>&nbsp;</p>"
+    ],
+    [
+        "1698638292.6065",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>fly is now slightly in profit, in this case study I will bring down buy calls if market slips further down for securing up side as well</p>"
+    ],
+    [
+        "1698404641.45731",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/5G3V1K1XRF2W.png",
+        ""
+    ],
+    [
+        "1698404637.44875",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/TKXJS5IL2MRJ.png",
+        ""
+    ],
+    [
+        "1698404632.97799",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/NE3B71BJD75Z.png",
+        "<p>Today's Trades - BAJAJ_AUTO, RELIANCE &amp; SBIN</p>"
+    ],
+    [
+        "1698391421.83877",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/ZY27HDMW2W4E.jpeg",
+        ""
+    ],
+    [
+        "1698391283.97175",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>Now as the market is sustaining up side, we protected down side with rolling up PE now if market stays in this range no need to do any further changes, only if market stays above days high to reduce losses on upside need to add one long debit spread.</p>"
+    ],
+    [
+        "1698381068.05647",
+        "sgole977@gmail.com",
+        "",
+        "<p>As the market moved up, in our weekly fly case study, I'm rolling up PE at 41900 and will book 41500 PE</p>"
+    ],
+    [
+        "1698315670.2877",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/MA5FWPCD0GGR.png",
+        "<p>Today's Trade - NIFTY</p>"
+    ],
+    [
+        "1698313710.81901",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/TN88JLCPGCIO.png",
+        "<p>track this cases tudy of fly for this week to understand adjustments&nbsp;</p>"
+    ],
+    [
+        "1698312234.85635",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>now guys for weekly case study lets see how to make Iron Fly&nbsp;<br>again guys this is strictly for learning purpose, one should first master the skill of adjustments before getting into real trades<br>at 3pm I will see where BankNifty spot is accordingly will make case study&nbsp;</p>"
+    ],
+    [
+        "1698300892.37908",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/CXNK8WYHHUG4.png",
+        "<p>this is once market touches near 42000 zone or if on 5 min market shows reversal sign.&nbsp;<br>this case study tells us if market goes in our direction how we can maximise our profits&nbsp;</p>"
+    ],
+    [
+        "1698300713.91367",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>now if you see markets reaching near 42000, fly will have some profits there<br>now case study 2&nbsp;<br>if markets stays there fly will make decent gains<br>if any bounce happens one can make long debit spread at least 300 points away like&nbsp;<br>long 42300 and short 42400&nbsp;<br>so one can now have decent gains near 42000 zone if market stays there, and if bounce comes in second half long debit spread can produce 1:5 to 1:7 RR</p>"
+    ],
+    [
+        "1698298462.26725",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/IR4BL8HXZPSM.png",
+        "<p>this is how it looks&nbsp;</p>"
+    ],
+    [
+        "1698298375.12557",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>traders as explained in yesterdays session about intraday fly, lets understand one case study, if I think Bank nifty have more space to go down, say till 42000, here for intraday I can make fly with selling 42000 straddle and hedge them with next strikes</p>"
+    ],
+    [
+        "1698230929.02356",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/9GK4U562IJYG.png",
+        ""
+    ],
+    [
+        "1698230924.82657",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/TFCNIDIRC6Y9.png",
+        ""
+    ],
+    [
+        "1698230919.79381",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/MVJ29RRDXP5M.png",
+        "<p>Today's Trades - INFY, HDFCLIFE &amp; BHARATFORG</p>"
+    ],
+    [
+        "1698206935.98947",
+        "vasoyaaakash@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/ZQBO14O5Z4ST.png",
+        "<p>Moneyflux and Index analysis is live&nbsp;<br>In index analysis, use time after 9:36 to get the results&nbsp;</p>"
+    ],
+    [
+        "1698205526.25737",
+        "vasoyaaakash@gmail.com",
+        "",
+        "<p>Moneyflux and Index analysis will start after 9:30 am today due to some technical difficulties&nbsp;</p><p>&nbsp;</p>"
+    ],
+    [
+        "1698058109.24483",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/6PZJOOHQP9TK.png",
+        "<p>Today's Trade - NIFTY</p>"
+    ],
+    [
+        "1698033682.94993",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>those who have issues with rates pls refresh tredcode once</p>"
+    ],
+    [
+        "1697710365.67772",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/CU9CEOE2PJAE.png",
+        ""
+    ],
+    [
+        "1697710361.02049",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/GJSPW5V5QQJZ.png",
+        "<p>Today's Trades - HINDALCO &amp; JINDALSTEL</p>"
+    ],
+    [
+        "1697625945.2219",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/MUEV5FE4QWGA.png",
+        ""
+    ],
+    [
+        "1697625937.72707",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/PEDVZ2YY397G.png",
+        "<p>Today's Trades - CIPLA &amp; DRREDDY</p>"
+    ],
+    [
+        "1697540760.49371",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/MTZBPRQKVIXY.png",
+        ""
+    ],
+    [
+        "1697540756.51326",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/7PVWH5NGF7TC.png",
+        ""
+    ],
+    [
+        "1697540751.6531",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/1HUFZNQKOTHN.png",
+        "<p>Today's Trades - HDFCLIFE, BPCL &amp; APOLLOTYRE</p>"
+    ],
+    [
+        "1697453477.37705",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/K79JITVFSVNZ.png",
+        "<p>Today's Trade - GNFC</p>"
+    ],
+    [
+        "1697194961.68104",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/EX8W67KAGYF0.png",
+        ""
+    ],
+    [
+        "1697194956.89889",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/Q3E1CITWOBU2.png",
+        ""
+    ],
+    [
+        "1697194951.74924",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/TB8N4A90DVJK.png",
+        "<p>Today's Trades - ADANIENT, AXISBANK &amp; MPHASIS</p>"
+    ],
+    [
+        "1697110142.16797",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/EK7H0BI4BI47.png",
+        ""
+    ],
+    [
+        "1697110137.46381",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/KR4SGDULDCBI.png",
+        ""
+    ],
+    [
+        "1697110131.69839",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/K0ZZIJX3VN3F.png",
+        "<p>Today's Trades - TVSMOTORS, COALINDIA &amp; NATIONALUM</p>"
+    ],
+    [
+        "1697018694.7574",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/ZJ8AU7IRYA5O.png",
+        ""
+    ],
+    [
+        "1697018689.73693",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/I9O31FDY9MU8.png",
+        ""
+    ],
+    [
+        "1697018684.29957",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/QOYSOLO3KMJY.png",
+        "<p>Today's Trades - WIRPO, MPHASIS &amp; TATACHEM</p>"
+    ],
+    [
+        "1696935161.33174",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/V5LX0OAVEG85.png",
+        ""
+    ],
+    [
+        "1696935114.12234",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/4P2OY3RJZL2E.png",
+        ""
+    ],
+    [
+        "1696935105.20454",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/5W9IC3UY9QQV.png",
+        "<p>Today's Trades - BHARTIARTL, NIFTY &amp; ADANIPORTS</p>"
+    ],
+    [
+        "1696847238.60312",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/CR9IX3BGLCQ2.png",
+        ""
+    ],
+    [
+        "1696847228.80835",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/9F898VXGSV5A.png",
+        "<p>Today's Trades - VOLTAS &amp; METROPOLIS</p>"
+    ],
+    [
+        "1696589026.85992",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/X7G7P4H0KRNK.png",
+        ""
+    ],
+    [
+        "1696589021.91217",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/YG45JX2D4T0X.png",
+        ""
+    ],
+    [
+        "1696589015.22804",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/E5YV0BSL7MR4.png",
+        "<p>Today's Trades - BAJAJFINSV, BAJFINANCE &amp; GODREJPROP</p>"
+    ],
+    [
+        "1696501276.56364",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/KU1N2BCLD0LQ.png",
+        ""
+    ],
+    [
+        "1696501270.32022",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/PYFJVLBOK64Z.png",
+        "<p>Today's Trades - BSOFT &amp; INFY</p>"
+    ],
+    [
+        "1696416777.48047",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/XKZFKOYRP1WB.png",
+        ""
+    ],
+    [
+        "1696416771.61321",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/94TCAQV4SGDM.png",
+        "<p>Today's Trades - SBIN &amp;AXIS BANK</p>"
+    ],
+    [
+        "1696332770.14585",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/ZX8XBWTTIT1E.png",
+        ""
+    ],
+    [
+        "1696332766.49089",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/FYMLERF3JB3X.png",
+        ""
+    ],
+    [
+        "1696332762.13476",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/THKWVV4E6HG3.png",
+        "<p>Today's Trades - MGL, MARICO &amp; MIDCPNIFTY</p>"
+    ],
+    [
+        "1695984965.88998",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/D6O60NIF0IH8.png",
+        ""
+    ],
+    [
+        "1695984961.91321",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/FEFY62NZF8DL.png",
+        ""
+    ],
+    [
+        "1695984957.70156",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/76XIN82FGQSK.png",
+        "<p>Today's Trades - VEDL, DRREDDY &amp; HINDALCO</p>"
+    ],
+    [
+        "1695897299.00343",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/Q8TUEREEVE7F.png",
+        ""
+    ],
+    [
+        "1695897293.33702",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/1YGAAKNMQTTU.png",
+        "<p>Today's Trades - NIFTY &amp; ASIANPAINT</p>"
+    ],
+    [
+        "1695812242.92273",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/G5GI0FWMJWDS.png",
+        ""
+    ],
+    [
+        "1695812238.32873",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/6Z2DODUQXNMK.png",
+        "<p>Today's Trades - GRANULES &amp; DRREDDY</p>"
+    ],
+    [
+        "1695725793.78937",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/UKG1H7IMSJLJ.png",
+        "<p>Today's Trade - EICHERMOT</p>"
+    ],
+    [
+        "1695704499.31438",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>heatmap of midcap is working smooth</p>"
+    ],
+    [
+        "1695704466.14755",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>we are facing issues with midcap data, and not able to show strength in moneyflux on same index, team is working at moment to solve the issue. sorry for the inconvenience&nbsp;</p>"
+    ],
+    [
+        "1695701547.2538",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/T61IJIBPNXMJ.jpeg",
+        "<p>below todays low I will make short debit spread keeping days high as my sl on spot basis, to cover down side risk&nbsp;</p>"
+    ],
+    [
+        "1695638169.548",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/3IE8TGHZACB2.png",
+        ""
+    ],
+    [
+        "1695638163.80631",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/3VW3I0M0H3IF.png",
+        "<p>Today's Trades - BAJFINANCE &amp; ASIANPAINT</p>"
+    ],
+    [
+        "1695618019.17224",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>to protect downside in my fly, adding short debit spread keeping swing hi as sl for intraday</p>"
+    ],
+    [
+        "1695614769.37405",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>those who are facing issues in getting data pls do hard refresh, for window user (shift+cntrl+R) for mac users (shift+command+R)</p>"
+    ],
+    [
+        "1695381973.54876",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/X5E2ENIWCVWX.png",
+        ""
+    ],
+    [
+        "1695381968.11075",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/AMK0FPP3C0KO.png",
+        ""
+    ],
+    [
+        "1695381962.66098",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/79CKFA5QRVYJ.png",
+        "<p>Today's Trades - CANBK, CIPLA &amp; RECLTD</p>"
+    ],
+    [
+        "1695358234.2739",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>berger paint has split and is up from split level, so kindly ignore&nbsp;</p>"
+    ],
+    [
+        "1695357777.92912",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/KEQWLK53BT81.jpeg",
+        ""
+    ],
+    [
+        "1695357742.54907",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>on spot if bank nifty sustains below days low I will make short spread keeping swing high as sl, it will be strictly for intraday to protect down side for my weekly fly</p>"
+    ],
+    [
+        "1695292516.60712",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/3VUGNS7SJM8G.png",
+        ""
+    ],
+    [
+        "1695292511.30858",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/DZNDAFA5XJMV.png",
+        "<p>Today's Trades - M&amp;M &amp; TCS</p>"
+    ],
+    [
+        "1695289691.38214",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>close your intraday short debit spread before day closes</p>"
+    ],
+    [
+        "1695284649.42698",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>ideal thing to do when market moves one direction, when on 5 min time frame market moves below your breakeven, make debit spread, here short debit spread for intraday and roll down your bought CE&nbsp;</p>"
+    ],
+    [
+        "1695269431.2136",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/U79KCZOLFO8P.png",
+        "<p>I will let you know the adjustments Im doing here with changing market scenario</p>"
+    ],
+    [
+        "1695269396.83394",
+        "dudhanechinmay@gmail.com",
+        "",
+        "<p>Im making a fly for current week in bank nifty&nbsp;</p>"
+    ],
+    [
+        "1695205647.35684",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/ACT7NTAESSOL.png",
+        ""
+    ],
+    [
+        "1695205642.05153",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/2HTO2R1NYSJ9.png",
+        "<p>Today's Trades - BPCL &amp; M&amp;MFIN</p>"
+    ],
+    [
+        "1695035816.80094",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/HF5CMJ53SM7Q.png",
+        ""
+    ],
+    [
+        "1695035811.74166",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/U93R2IODX5M8.png",
+        ""
+    ],
+    [
+        "1695035806.60259",
+        "sgole977@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/E7C89HJWXZBE.png",
+        "<p>Today's Trades - CIPLA, M&amp;M &amp; TITAN</p>"
+    ],
+    [
+        "1695009765.16074",
+        "dudhanechinmay@gmail.com",
+        "https://trjournal-test.s3.amazonaws.com/Messenger/GE4YUDNJZ7YJ.png",
+        "<p>now guys I have rolled up PEs 300 points and same rolled down CE 300 points first bought PE and CE and then exited earlier bought legs, that way now our fly is completely risk free now and we can wait for max gains comfortably&nbsp;</p>"
+    ]
+]
